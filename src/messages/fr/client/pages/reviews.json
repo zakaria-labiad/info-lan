@@ -13,7 +13,6 @@
       "company": "Casablanca",
       "comment": "Une adresse et un numéro de téléphone vérifiés pour échanger directement avec INFO-L@N.",
       "rating": 1,
-      "initials": "PL",
       "imageAlt": "Présence locale"
     },
     {
@@ -21,7 +20,6 @@
       "company": "Matériel & consommables",
       "comment": "Des choix expliqués selon les usages avant la mise en service.",
       "rating": 1,
-      "initials": "CP",
       "imageAlt": "Conseil pratique"
     },
     {
@@ -29,7 +27,6 @@
       "company": "Installation & maintenance",
       "comment": "Un accompagnement qui relie l'achat, l'installation et la maintenance.",
       "rating": 1,
-      "initials": "CO",
       "imageAlt": "Continuité"
     }
   ]

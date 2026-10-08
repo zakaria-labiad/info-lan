@@ -12,12 +12,3 @@ export function ensureRailMinimum<T>(items: readonly T[], minimum: number) {
     (_, index) => items[index % items.length],
   );
 }
-
-export function getInitials(name: string) {
-  return name
-    .split(" ")
-    .map((part) => part[0])
-    .join("")
-    .slice(0, 2)
-    .toUpperCase();
-}

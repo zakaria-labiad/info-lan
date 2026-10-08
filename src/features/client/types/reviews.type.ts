@@ -4,7 +4,6 @@ export type ReviewCardProps = {
   comment: string;
   rating: number;
   ratingLabel: string;
-  initials: string;
   imageAlt: string;
 };
 

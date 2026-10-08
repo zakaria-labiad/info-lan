@@ -4,7 +4,6 @@ import { ReviewCard } from "@/components/client/reviews";
 
 import { HOME_TESTIMONIALS } from "@/components/client/home/data";
 import { reviewRailItemClassName } from "@/components/client/home/shared/constants";
-import { getInitials } from "@/components/client/home/shared/home-utils";
 import { ScrollRail } from "@/components/client/home/shared/scroll-rail";
 
 function TestimonialsSection() {
@@ -23,7 +22,6 @@ function TestimonialsSection() {
           comment={t(`items.${testimonial.key}.quote`)}
           rating={5}
           ratingLabel={t("ratingLabel")}
-          initials={getInitials(t(`items.${testimonial.key}.name`))}
           imageAlt={t(`items.${testimonial.key}.imageAlt`)}
         />
       ))}

@@ -13,7 +13,6 @@
       "company": "Casablanca",
       "comment": "A verified address and phone number for contacting INFO-L@N directly.",
       "rating": 1,
-      "initials": "LP",
       "imageAlt": "Local presence"
     },
     {
@@ -21,7 +20,6 @@
       "company": "Equipment & supplies",
       "comment": "Choices explained for the intended uses before setup.",
       "rating": 1,
-      "initials": "PA",
       "imageAlt": "Practical advice"
     },
     {
@@ -29,7 +27,6 @@
       "company": "Installation & maintenance",
       "comment": "Support connecting purchase, setup, and maintenance.",
       "rating": 1,
-      "initials": "CO",
       "imageAlt": "Continuity"
     }
   ]

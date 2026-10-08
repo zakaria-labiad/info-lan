@@ -19,8 +19,8 @@ test("home keeps the original hero proof row and presents trustworthy IT service
   await expect(hero.getByText("Equipment & supplies")).toHaveCount(0);
 
   const process = page
-    .getByRole("heading", { level: 2, name: "From need to maintenance" })
-    .locator("xpath=ancestor::section");
+    .locator("section")
+    .filter({ hasText: "From need to maintenance" });
   const processCards = process.locator("article");
   await expect(processCards).toHaveCount(2);
   await expect(processCards.locator("svg")).toHaveCount(2);
@@ -32,6 +32,13 @@ test("home keeps the original hero proof row and presents trustworthy IT service
   await expect(stats).toContainText("3");
   await expect(stats).toContainText("2");
   await expect(stats.locator("article")).toHaveCount(4);
+
+  const reviews = page
+    .locator("section")
+    .filter({ hasText: "Practical answers to real needs" });
+  const firstReview = reviews.locator("article").first();
+  await expect(firstReview.locator("svg.lucide-star")).toHaveCount(5);
+  await expect(firstReview.locator('[data-slot="avatar"]')).toHaveText("EW");
 
   const footer = page.locator("footer");
   await expect(footer).toHaveCSS("background-color", "rgb(255, 255, 255)");
