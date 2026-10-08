@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "À propos",
+    "description": "Découvrez INFO-L@N, entreprise informatique de proximité implantée à Casablanca depuis 2005."
+  },
+  "highlights": {
+    "title": "Une démarche centrée sur l'écoute, le conseil et la continuité.",
+    "items": {
+      "delivery": {
+        "title": "Accompagnement local",
+        "description": "INFO-L@N accueille les besoins des entreprises et des particuliers depuis son adresse de Casablanca."
+      },
+      "technicalAdvice": {
+        "title": "Conseil technique",
+        "description": "L'équipe aide à choisir, installer et entretenir du matériel adapté aux usages réels."
+      }
+    }
+  },
+  "story": {
+    "title": "À vos côtés depuis 2005",
+    "banner": "Vente, installation et maintenance",
+    "description": "Implantée à Casablanca, INFO-L@N accompagne en priorité les entreprises, tout en accueillant les particuliers, pour le choix, la mise en service et la maintenance de leur matériel informatique.",
+    "cta": "Voir nos services",
+    "imageAlt": "Équipe professionnelle utilisant des ordinateurs dans un bureau",
+    "bannerAlt": "Équipe accompagnée dans l'usage de son matériel informatique"
+  },
+  "video": {
+    "play": "Voir la présentation de INFO-L@N",
+    "imageAlt": "Équipe INFO-L@N autour d'un besoin informatique",
+    "marks": {
+      "piping": "Matériel",
+      "boilermaking": "Installation",
+      "conveyors": "Maintenance"
+    }
+  },
+  "marquee": {
+    "trust": "Confiance",
+    "quality": "Qualité",
+    "reliability": "Fiabilité",
+    "integrity": "Intégrité",
+    "commitment": "Engagement",
+    "precision": "Précision",
+    "innovation": "Innovation",
+    "excellence": "Excellence"
+  },
+  "achievements": {
+    "title": "Trois repères vérifiés",
+    "description": "Depuis 2005, INFO-L@N développe à Casablanca trois domaines complémentaires : matériel, installation et maintenance.",
+    "imageAlt": "Vérification d'un équipement informatique",
+    "items": {
+      "experience": "année de création",
+      "sectors": "implantation locale",
+      "quality": "domaines de service"
+    }
+  },
+  "professionals": {
+    "title": "Compétences mobilisées",
+    "items": {
+      "engineering": {
+        "name": "Conseil",
+        "role": "Analyse des usages et choix du matériel",
+        "alt": "Conseil pour le choix d'un ordinateur"
+      },
+      "fabrication": {
+        "name": "Installation",
+        "role": "Configuration et mise en service",
+        "alt": "Installation d'un poste informatique"
+      },
+      "quality": {
+        "name": "Maintenance",
+        "role": "Diagnostic et entretien du matériel",
+        "alt": "Maintenance d'un équipement informatique"
+      },
+      "site": {
+        "name": "Assistance",
+        "role": "Accompagnement pratique des utilisateurs",
+        "alt": "Assistance auprès d'utilisateurs informatiques"
+      }
+    }
+  }
+}

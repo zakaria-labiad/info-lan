@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "description": "Trouvez les réponses sur nos produits, services, processus et accompagnement projet."
+  },
+  "eyebrow": "Questions fréquentes",
+  "title": "Les réponses utiles avant de lancer votre projet.",
+  "description": "Matériel, installation ou maintenance : voici les points à préciser avec notre équipe.",
+  "cta": "Une autre question ? Contactez-nous",
+  "ctaTitle": "Vous avez une autre question ?",
+  "ctaButton": "Contactez-nous",
+  "items": [
+    {
+      "question": "Quels services propose INFO-L@N ?",
+      "answer": "INFO-L@N vend du matériel et des consommables informatiques, assure l'installation et la mise en service, puis propose la maintenance et l'assistance."
+    },
+    {
+      "question": "INFO-L@N accompagne-t-il les entreprises ?",
+      "answer": "Oui. L'entreprise cible d'abord les besoins professionnels, tout en accueillant les particuliers."
+    },
+    {
+      "question": "Où se trouve INFO-L@N ?",
+      "answer": "INFO-L@N est située au 20 rue Banafsaj – ex-Violettes, résidence Nouhayla, Casablanca."
+    },
+    {
+      "question": "Comment contacter INFO-L@N ?",
+      "answer": "Vous pouvez appeler le 05 22 39 84 84 ou utiliser le formulaire de contact du site."
+    }
+  ]
+}

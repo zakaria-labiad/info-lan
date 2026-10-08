@@ -1,0 +1,10 @@
+import type { NextRequest } from "next/server";
+import { revalidatePath } from "next/cache";
+import { NextResponse } from "next/server";
+import { getCurrentAdminUser } from "@/server/auth/guard";
+import { canManageUsers } from "@/server/auth/permissions";
+import { prisma } from "@/server/db/prisma";
+import { apiError, getClientIp, hasTrustedOrigin } from "@/server/http/api";
+import { siteSettingsInputSchema } from "@/server/settings/validation";
+export async function GET() { const current = await getCurrentAdminUser(); if (!current) return apiError("UNAUTHENTICATED", "Authentication is required.", 401); if (!canManageUsers(current.role)) return apiError("FORBIDDEN", "Permission denied.", 403); return NextResponse.json({ data: await prisma.siteSettings.findUnique({ where: { id: 1 } }) }); }
+export async function PATCH(request: NextRequest) { if (!hasTrustedOrigin(request)) return apiError("INVALID_ORIGIN", "Request origin is not allowed.", 403); const current = await getCurrentAdminUser(); if (!current) return apiError("UNAUTHENTICATED", "Authentication is required.", 401); if (!canManageUsers(current.role)) return apiError("FORBIDDEN", "Permission denied.", 403); const parsed = siteSettingsInputSchema.safeParse(await request.json().catch(() => null)); if (!parsed.success) return apiError("VALIDATION_ERROR", "Please check the submitted fields.", 400, parsed.error.flatten().fieldErrors); const nullable = Object.fromEntries(Object.entries(parsed.data).map(([key, value]) => [key, value === "" ? null : value])); const data = await prisma.$transaction(async (tx) => { const value = await tx.siteSettings.upsert({ where: { id: 1 }, create: { id: 1, ...nullable, companyName: parsed.data.companyName }, update: nullable }); await tx.auditLog.create({ data: { userId: current.id, action: "UPDATE", entityType: "SiteSettings", entityId: 1, ipAddress: getClientIp(request), userAgent: request.headers.get("user-agent") } }); return value; }); revalidatePath("/", "layout"); return NextResponse.json({ data }); }

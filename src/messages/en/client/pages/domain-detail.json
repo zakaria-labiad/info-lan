@@ -1,0 +1,1010 @@
+{
+  "eyebrow": "IT service",
+  "quote": "Contact us",
+  "expert": "Talk to an expert",
+  "imageAlt": "IT illustration for {domain}",
+  "proofTitle": "From need to follow-up",
+  "viewAllProducts": "All products",
+  "viewAllPosts": "All articles",
+  "productAction": "View product",
+  "blogAction": "Read article",
+  "faqIntro": "These answers present INFO-L@N support for {domain}. Contact us to discuss your requirement.",
+  "contactCta": {
+    "label": "Have a question? Contact us",
+    "href": "/contact"
+  },
+  "sections": {
+    "overview": "What INFO-L@N supports",
+    "processEyebrow": "Project method",
+    "process": "A simple, clear process",
+    "productsEyebrow": "Related products",
+    "products": "Equipment related to this service",
+    "blogEyebrow": "Resources",
+    "blog": "Guidance for preparing your need",
+    "faq": "Field FAQ"
+  },
+  "domains": {
+    "industrialPiping": {
+      "title": "Equipment & supplies",
+      "heroDescription": "Choose computers, peripherals, and supplies suited to professional use.",
+      "intro": "Selection, preparation, and supply of computer equipment with clear advice in Casablanca.",
+      "fitTitle": "Equipment & supplies for your activity",
+      "fitDescription": "Each recommendation starts with actual uses, existing equipment, and the organization's priorities.",
+      "capabilityLead": "INFO-L@N supports the need from selection through setup and follow-up.",
+      "capabilities": [
+        {
+          "title": "Needs review",
+          "description": "Identify uses, constraints, and equipment already in place.",
+          "icon": "access"
+        },
+        {
+          "title": "Suitable choice",
+          "description": "Compare useful options without adding unnecessary complexity.",
+          "icon": "material"
+        },
+        {
+          "title": "Preparation",
+          "description": "Configure and check equipment before use.",
+          "icon": "configurations"
+        },
+        {
+          "title": "Follow-up",
+          "description": "Remain available for maintenance and support.",
+          "icon": "safety"
+        }
+      ],
+      "process": [
+        {
+          "title": "Understand",
+          "description": "Clarify uses, priorities, and budget."
+        },
+        {
+          "title": "Prepare",
+          "description": "Select, configure, and check the equipment."
+        },
+        {
+          "title": "Support",
+          "description": "Set up the equipment and arrange useful follow-up."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Computer workstation",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/speciaux/process-skid",
+          "icon": "equipment"
+        },
+        {
+          "title": "Network equipment",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/cuves/storage-tank",
+          "icon": "network"
+        },
+        {
+          "title": "Maintenance solution",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/structures/technical-platform",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Choosing the right equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "12 Mar 2026",
+          "href": "/resources/blog/preparing-industrial-site-steel-installation"
+        },
+        {
+          "title": "Preparing an installation",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "9 May 2025",
+          "href": "/resources/blog/commissioning-checklist-industrial-installations"
+        },
+        {
+          "title": "Maintaining equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "6 Nov 2025",
+          "href": "/resources/blog/industrial-project-documentation"
+        },
+        {
+          "title": "Organizing a local network",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "13 Sep 2025",
+          "href": "/resources/blog/stainless-steel-food-process-equipment"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "Does INFO-L@N support businesses?",
+          "description": "Yes. Support is business-first while remaining open to individuals."
+        },
+        {
+          "title": "Can I ask for advice before buying?",
+          "description": "Yes. Needs and uses can be clarified before equipment is selected."
+        },
+        {
+          "title": "Is installation available?",
+          "description": "Yes. Installation and setup are one of the three stated service areas."
+        },
+        {
+          "title": "Is maintenance available?",
+          "description": "Yes. INFO-L@N provides computer equipment maintenance and support."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Support",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-equipment.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Practical advice",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "groups": [
+            {
+              "title": "Equipment",
+              "items": [
+                "Computers",
+                "Peripherals",
+                "Networking",
+                "Storage"
+              ]
+            },
+            {
+              "title": "Uses",
+              "items": [
+                "Office work",
+                "Collaboration",
+                "Backup",
+                "Printing"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "srcParts": [
+                "/images/home/info-lan-equipment.webp"
+              ],
+              "alt": "INFO-L@N IT service in Casablanca"
+            }
+          ]
+        }
+      ]
+    },
+    "boilermaking": {
+      "title": "Installation & setup",
+      "heroDescription": "Install, configure, and check workstations and equipment before use.",
+      "intro": "A structured setup process so equipment is ready for work.",
+      "fitTitle": "Installation & setup for your activity",
+      "fitDescription": "Each recommendation starts with actual uses, existing equipment, and the organization's priorities.",
+      "capabilityLead": "INFO-L@N supports the need from selection through setup and follow-up.",
+      "capabilities": [
+        {
+          "title": "Needs review",
+          "description": "Identify uses, constraints, and equipment already in place.",
+          "icon": "tank"
+        },
+        {
+          "title": "Suitable choice",
+          "description": "Compare useful options without adding unnecessary complexity.",
+          "icon": "welded"
+        },
+        {
+          "title": "Preparation",
+          "description": "Configure and check equipment before use.",
+          "icon": "finish"
+        },
+        {
+          "title": "Follow-up",
+          "description": "Remain available for maintenance and support.",
+          "icon": "quality"
+        }
+      ],
+      "process": [
+        {
+          "title": "Understand",
+          "description": "Clarify uses, priorities, and budget."
+        },
+        {
+          "title": "Prepare",
+          "description": "Select, configure, and check the equipment."
+        },
+        {
+          "title": "Support",
+          "description": "Set up the equipment and arrange useful follow-up."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Computer workstation",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/cuves/mixing-vat",
+          "icon": "equipment"
+        },
+        {
+          "title": "Network equipment",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/cuves/pressure-vessel",
+          "icon": "network"
+        },
+        {
+          "title": "Maintenance solution",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/speciaux/boilermade-part",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Choosing the right equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "14 Feb 2026",
+          "href": "/resources/blog/quality-controls-welded-assemblies"
+        },
+        {
+          "title": "Preparing an installation",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "17 Jan 2026",
+          "href": "/resources/blog/industrial-tank-material-selection"
+        },
+        {
+          "title": "Maintaining equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "4 Jul 2025",
+          "href": "/resources/blog/inspection-points-pressure-equipment"
+        },
+        {
+          "title": "Organizing a local network",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "19 Dec 2025",
+          "href": "/resources/blog/surface-treatment-metal-structures"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "Does INFO-L@N support businesses?",
+          "description": "Yes. Support is business-first while remaining open to individuals."
+        },
+        {
+          "title": "Can I ask for advice before buying?",
+          "description": "Yes. Needs and uses can be clarified before equipment is selected."
+        },
+        {
+          "title": "Is installation available?",
+          "description": "Yes. Installation and setup are one of the three stated service areas."
+        },
+        {
+          "title": "Is maintenance available?",
+          "description": "Yes. INFO-L@N provides computer equipment maintenance and support."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Support",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ],
+              "alt": "INFO-L@N IT service in Casablanca"
+            }
+          ]
+        },
+        {
+          "title": "Practical advice",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          }
+        }
+      ]
+    },
+    "conveyors": {
+      "title": "Maintenance & support",
+      "heroDescription": "Diagnose, maintain, and support users over time.",
+      "intro": "Local follow-up to protect continuity and equipment life.",
+      "fitTitle": "Maintenance & support for your activity",
+      "fitDescription": "Each recommendation starts with actual uses, existing equipment, and the organization's priorities.",
+      "capabilityLead": "INFO-L@N supports the need from selection through setup and follow-up.",
+      "capabilities": [
+        {
+          "title": "Needs review",
+          "description": "Identify uses, constraints, and equipment already in place.",
+          "icon": "flow"
+        },
+        {
+          "title": "Suitable choice",
+          "description": "Compare useful options without adding unnecessary complexity.",
+          "icon": "structure"
+        },
+        {
+          "title": "Preparation",
+          "description": "Configure and check equipment before use.",
+          "icon": "integration"
+        },
+        {
+          "title": "Follow-up",
+          "description": "Remain available for maintenance and support.",
+          "icon": "scalable"
+        }
+      ],
+      "process": [
+        {
+          "title": "Understand",
+          "description": "Clarify uses, priorities, and budget."
+        },
+        {
+          "title": "Prepare",
+          "description": "Select, configure, and check the equipment."
+        },
+        {
+          "title": "Support",
+          "description": "Set up the equipment and arrange useful follow-up."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Computer workstation",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/convoyeurs/belt-conveyor",
+          "icon": "equipment"
+        },
+        {
+          "title": "Network equipment",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/convoyeurs/roller-conveyor",
+          "icon": "network"
+        },
+        {
+          "title": "Maintenance solution",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/convoyeurs/transfer-cart",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Choosing the right equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "8 Jan 2026",
+          "href": "/resources/blog/conveyor-layout-production-flow"
+        },
+        {
+          "title": "Preparing an installation",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "28 Feb 2026",
+          "href": "/resources/blog/choosing-heavy-handling-equipment"
+        },
+        {
+          "title": "Maintaining equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "29 Aug 2025",
+          "href": "/resources/blog/operator-access-around-machines"
+        },
+        {
+          "title": "Organizing a local network",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "30 May 2025",
+          "href": "/resources/blog/noise-vibration-heavy-equipment"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "Does INFO-L@N support businesses?",
+          "description": "Yes. Support is business-first while remaining open to individuals."
+        },
+        {
+          "title": "Can I ask for advice before buying?",
+          "description": "Yes. Needs and uses can be clarified before equipment is selected."
+        },
+        {
+          "title": "Is installation available?",
+          "description": "Yes. Installation and setup are one of the three stated service areas."
+        },
+        {
+          "title": "Is maintenance available?",
+          "description": "Yes. INFO-L@N provides computer equipment maintenance and support."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Support",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/categories/convoyeurs/belt-conveyor"
+          }
+        },
+        {
+          "title": "Practical advice",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Continuity",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Support",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/categories/convoyeurs/roller-conveyor"
+          }
+        },
+        {
+          "title": "Practical advice",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "loadingDocks": {
+      "title": "Network & connectivity",
+      "heroDescription": "Connect workstations and equipment with suitable network infrastructure.",
+      "intro": "Cabling, network equipment, and connectivity checks matched to the need.",
+      "fitTitle": "Network & connectivity for your activity",
+      "fitDescription": "Each recommendation starts with actual uses, existing equipment, and the organization's priorities.",
+      "capabilityLead": "INFO-L@N supports the need from selection through setup and follow-up.",
+      "capabilities": [
+        {
+          "title": "Needs review",
+          "description": "Identify uses, constraints, and equipment already in place.",
+          "icon": "access"
+        },
+        {
+          "title": "Suitable choice",
+          "description": "Compare useful options without adding unnecessary complexity.",
+          "icon": "frame"
+        },
+        {
+          "title": "Preparation",
+          "description": "Configure and check equipment before use.",
+          "icon": "safety"
+        },
+        {
+          "title": "Follow-up",
+          "description": "Remain available for maintenance and support.",
+          "icon": "coordination"
+        }
+      ],
+      "process": [
+        {
+          "title": "Understand",
+          "description": "Clarify uses, priorities, and budget."
+        },
+        {
+          "title": "Prepare",
+          "description": "Select, configure, and check the equipment."
+        },
+        {
+          "title": "Support",
+          "description": "Set up the equipment and arrange useful follow-up."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Computer workstation",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/quais/loading-frame",
+          "icon": "equipment"
+        },
+        {
+          "title": "Network equipment",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/quais/tilting-skip",
+          "icon": "network"
+        },
+        {
+          "title": "Maintenance solution",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/quais/maintenance-platform",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Choosing the right equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "18 Oct 2025",
+          "href": "/resources/blog/transporting-oversized-metalwork"
+        },
+        {
+          "title": "Preparing an installation",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "21 Nov 2025",
+          "href": "/resources/blog/lifting-plan-large-fabricated-parts"
+        },
+        {
+          "title": "Maintaining equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "28 Feb 2026",
+          "href": "/resources/blog/choosing-heavy-handling-equipment"
+        },
+        {
+          "title": "Organizing a local network",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "29 Jan 2026",
+          "href": "/resources/blog/walkways-guardrails-safety-review"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "Does INFO-L@N support businesses?",
+          "description": "Yes. Support is business-first while remaining open to individuals."
+        },
+        {
+          "title": "Can I ask for advice before buying?",
+          "description": "Yes. Needs and uses can be clarified before equipment is selected."
+        },
+        {
+          "title": "Is installation available?",
+          "description": "Yes. Installation and setup are one of the three stated service areas."
+        },
+        {
+          "title": "Is maintenance available?",
+          "description": "Yes. INFO-L@N provides computer equipment maintenance and support."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Support",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-equipment.webp"
+              ]
+            }
+          ],
+          "groups": [
+            {
+              "title": "Equipment",
+              "items": [
+                "Computers",
+                "Peripherals",
+                "Networking",
+                "Storage"
+              ]
+            },
+            {
+              "title": "Uses",
+              "items": [
+                "Office work",
+                "Collaboration",
+                "Backup",
+                "Printing"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          }
+        }
+      ]
+    },
+    "shelving": {
+      "title": "Peripherals & storage",
+      "heroDescription": "Complete workstations with appropriate peripherals and storage.",
+      "intro": "Displays, printing, accessories, and storage selected for the activity.",
+      "fitTitle": "Peripherals & storage for your activity",
+      "fitDescription": "Each recommendation starts with actual uses, existing equipment, and the organization's priorities.",
+      "capabilityLead": "INFO-L@N supports the need from selection through setup and follow-up.",
+      "capabilities": [
+        {
+          "title": "Needs review",
+          "description": "Identify uses, constraints, and equipment already in place.",
+          "icon": "load"
+        },
+        {
+          "title": "Suitable choice",
+          "description": "Compare useful options without adding unnecessary complexity.",
+          "icon": "organization"
+        },
+        {
+          "title": "Preparation",
+          "description": "Configure and check equipment before use.",
+          "icon": "configurations"
+        },
+        {
+          "title": "Follow-up",
+          "description": "Remain available for maintenance and support.",
+          "icon": "durable"
+        }
+      ],
+      "process": [
+        {
+          "title": "Understand",
+          "description": "Clarify uses, priorities, and budget."
+        },
+        {
+          "title": "Prepare",
+          "description": "Select, configure, and check the equipment."
+        },
+        {
+          "title": "Support",
+          "description": "Set up the equipment and arrange useful follow-up."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Computer workstation",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/rayonnage/custom-rack",
+          "icon": "equipment"
+        },
+        {
+          "title": "Network equipment",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/atelier/tool-storage",
+          "icon": "network"
+        },
+        {
+          "title": "Maintenance solution",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/structures/technical-platform",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Choosing the right equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "16 Jun 2025",
+          "href": "/resources/blog/warehouse-flow-metal-components"
+        },
+        {
+          "title": "Preparing an installation",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "11 Aug 2025",
+          "href": "/resources/blog/spare-parts-strategy-custom-equipment"
+        },
+        {
+          "title": "Maintaining equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "23 Jul 2025",
+          "href": "/resources/blog/factory-layout-before-fabrication"
+        },
+        {
+          "title": "Organizing a local network",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "1 Oct 2025",
+          "href": "/resources/blog/retrofit-existing-industrial-structures"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "Does INFO-L@N support businesses?",
+          "description": "Yes. Support is business-first while remaining open to individuals."
+        },
+        {
+          "title": "Can I ask for advice before buying?",
+          "description": "Yes. Needs and uses can be clarified before equipment is selected."
+        },
+        {
+          "title": "Is installation available?",
+          "description": "Yes. Installation and setup are one of the three stated service areas."
+        },
+        {
+          "title": "Is maintenance available?",
+          "description": "Yes. INFO-L@N provides computer equipment maintenance and support."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Support",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Practical advice",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Continuity",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/categories/rayonnage/custom-rack"
+          },
+          "images": [
+            {
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ],
+              "alt": "INFO-L@N IT service in Casablanca"
+            }
+          ]
+        }
+      ]
+    },
+    "workshopDisplay": {
+      "title": "Advice & configuration",
+      "heroDescription": "Turn a practical need into a coherent IT configuration.",
+      "intro": "Explained choices, practical preparation, and local support.",
+      "fitTitle": "Advice & configuration for your activity",
+      "fitDescription": "Each recommendation starts with actual uses, existing equipment, and the organization's priorities.",
+      "capabilityLead": "INFO-L@N supports the need from selection through setup and follow-up.",
+      "capabilities": [
+        {
+          "title": "Needs review",
+          "description": "Identify uses, constraints, and equipment already in place.",
+          "icon": "display"
+        },
+        {
+          "title": "Suitable choice",
+          "description": "Compare useful options without adding unnecessary complexity.",
+          "icon": "furniture"
+        },
+        {
+          "title": "Preparation",
+          "description": "Configure and check equipment before use.",
+          "icon": "visibility"
+        },
+        {
+          "title": "Follow-up",
+          "description": "Remain available for maintenance and support.",
+          "icon": "durable"
+        }
+      ],
+      "process": [
+        {
+          "title": "Understand",
+          "description": "Clarify uses, priorities, and budget."
+        },
+        {
+          "title": "Prepare",
+          "description": "Select, configure, and check the equipment."
+        },
+        {
+          "title": "Support",
+          "description": "Set up the equipment and arrange useful follow-up."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Computer workstation",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/atelier/metal-workbench",
+          "icon": "equipment"
+        },
+        {
+          "title": "Network equipment",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/atelier/tool-storage",
+          "icon": "network"
+        },
+        {
+          "title": "Maintenance solution",
+          "description": "A solution selected and prepared for the intended use.",
+          "href": "/categories/atelier/welding-table",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Choosing the right equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "23 Jul 2025",
+          "href": "/resources/blog/factory-layout-before-fabrication"
+        },
+        {
+          "title": "Preparing an installation",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "29 Aug 2025",
+          "href": "/resources/blog/operator-access-around-machines"
+        },
+        {
+          "title": "Maintaining equipment",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "16 Jun 2025",
+          "href": "/resources/blog/warehouse-flow-metal-components"
+        },
+        {
+          "title": "Organizing a local network",
+          "description": "Practical guidance for preparing an IT requirement.",
+          "date": "6 Nov 2025",
+          "href": "/resources/blog/industrial-project-documentation"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "Does INFO-L@N support businesses?",
+          "description": "Yes. Support is business-first while remaining open to individuals."
+        },
+        {
+          "title": "Can I ask for advice before buying?",
+          "description": "Yes. Needs and uses can be clarified before equipment is selected."
+        },
+        {
+          "title": "Is installation available?",
+          "description": "Yes. Installation and setup are one of the three stated service areas."
+        },
+        {
+          "title": "Is maintenance available?",
+          "description": "Yes. INFO-L@N provides computer equipment maintenance and support."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Support",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Practical advice",
+          "paragraphs": [
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple.",
+            "INFO-L@N connects selection, setup, and maintenance to keep the experience simple."
+          ],
+          "action": {
+            "label": "Contact us",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "alt": "INFO-L@N IT service in Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

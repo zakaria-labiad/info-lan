@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "Services",
+    "description": "Découvrez les services INFO-L@N : matériel, installation, maintenance, réseau, périphériques et conseil."
+  },
+  "cards": {
+    "industrialPiping": "Matériel & consommables",
+    "boilermaking": "Installation & mise en service",
+    "conveyors": "Maintenance & assistance",
+    "loadingDocks": "Réseau & connectivité",
+    "shelving": "Périphériques & stockage",
+    "workshopDisplay": "Conseil & configuration"
+  },
+  "viewDomain": "Voir le service"
+}

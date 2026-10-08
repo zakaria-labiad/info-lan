@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "Technical guides",
+    "description": "Read practical guidance for choosing and maintaining your IT."
+  },
+  "download": "Download guide",
+  "ctaTitle": "Need a guide for your project?",
+  "ctaButton": "Contact us",
+  "items": [
+    {
+      "title": "Computer workstation selection guide",
+      "description": "Uses, memory, storage, display, and peripherals to consider.",
+      "pages": "On request",
+      "format": "PDF",
+      "href": "/contact"
+    },
+    {
+      "title": "Preparing a network installation",
+      "description": "Equipment, cabling, and checks to plan before setup.",
+      "pages": "On request",
+      "format": "PDF",
+      "href": "/contact"
+    },
+    {
+      "title": "Computer maintenance guidance",
+      "description": "Simple points for caring for equipment and preparing a diagnosis.",
+      "pages": "On request",
+      "format": "PDF",
+      "href": "/contact"
+    }
+  ]
+}

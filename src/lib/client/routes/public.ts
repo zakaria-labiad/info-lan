@@ -1,0 +1,18 @@
+export const PUBLIC_STATIC_PATHS = [
+  "/",
+  "/categories",
+  "/contact",
+  "/domains",
+  "/entreprise",
+  "/entreprise/about",
+  "/entreprise/news",
+  "/entreprise/partners",
+  "/entreprise/reviews",
+  "/resources/blog",
+  "/resources/downloads",
+  "/resources/faq",
+  "/resources/galeries",
+  "/resources/guides",
+  "/privacy-policy",
+  "/terms",
+] as const;

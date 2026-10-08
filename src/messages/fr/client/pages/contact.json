@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "title": "Contactez-nous",
+    "description": "Contactez INFO-L@N pour votre matériel, son installation ou sa maintenance à Casablanca."
+  },
+  "title": "Contactez-nous",
+  "description": "Expliquez votre besoin : notre équipe vous répondra avec les informations disponibles.",
+  "email": "Écrivez-nous",
+  "phone": "Téléphone",
+  "address": "Adresse",
+  "addressValue": "20 rue Banafsaj – ex-Violettes, résidence Nouhayla, Casablanca",
+  "formTitle": "Envoyer un message",
+  "fullName": "Votre nom complet",
+  "emailPlaceholder": "Votre adresse email",
+  "subject": "Le sujet de votre message",
+  "message": "Votre message",
+  "submit": "Envoyer le message",
+  "mapTitle": "Localisation de INFO-L@N à Casablanca"
+}

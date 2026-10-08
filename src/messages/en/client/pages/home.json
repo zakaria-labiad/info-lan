@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "title": "Your IT, supplied, installed and maintained.",
+    "supportingText": "Since 2005, INFO-L@N has supported Casablanca businesses with the selection, setup and maintenance of computer equipment.",
+    "proofLine1": "Equipment, installation",
+    "proofLine2": "and IT maintenance",
+    "proofBadges": {
+      "equipment": "EQP",
+      "network": "LAN",
+      "support": "IT"
+    },
+    "servicePillars": {
+      "label": "INFO-L@N's three service areas",
+      "equipment": "Equipment & supplies",
+      "installation": "Installation & setup",
+      "maintenance": "Maintenance & support"
+    }
+  },
+  "intro": {
+    "title": "IT solutions adapted to your activity",
+    "cta": "Discover INFO-L@N",
+    "imageAltSmall": "Equipped professional computer workstation",
+    "imageAltLarge": "Professionals using computers in an office",
+    "features": {
+      "technicalAdvice": {
+        "title": "Practical advice",
+        "description": "Local guidance to choose equipment that fits your uses and budget."
+      },
+      "qualityControl": {
+        "title": "Service continuity",
+        "description": "One partner from purchase and installation through maintenance and support."
+      }
+    }
+  },
+  "marquee": {
+    "piping": "Computers",
+    "boilermaking": "Installation",
+    "conveyors": "Networks",
+    "loadingDocks": "Maintenance",
+    "shelving": "Supplies"
+  },
+  "services": {
+    "title": "Local IT services",
+    "items": {
+      "industrialPiping": "Equipment & supplies",
+      "boilermaking": "Installation & setup",
+      "conveyors": "Maintenance & support",
+      "loadingDocks": "Network & connectivity"
+    },
+    "readMore": "View service"
+  },
+  "video": {
+    "imageAlt": "Team using professional computer equipment"
+  },
+  "challenge": {
+    "title": "A local partner for your IT",
+    "description": "INFO-L@N helps businesses and individuals equip workstations, set up their hardware, and arrange maintenance in Casablanca.",
+    "imageAlt": "Technician working on computer cabling",
+    "badgeValue": "2005",
+    "badgeLine1": "Based",
+    "badgeLine2": "in Casablanca",
+    "cta": "View services",
+    "skills": {
+      "customFabrication": "Equipment selection",
+      "siteInstallation": "Setup"
+    }
+  },
+  "builds": {
+    "title": "Solutions for every stage",
+    "items": {
+      "piping": {
+        "title": "Computers, peripherals, and supplies",
+        "alt": "Equipped professional computer workstation"
+      },
+      "boilermaking": {
+        "title": "Installation and setup",
+        "alt": "Ethernet cables connected to a network switch"
+      },
+      "conveyors": {
+        "title": "IT maintenance and support",
+        "alt": "Technician working on computer cabling"
+      },
+      "loadingDocks": {
+        "title": "Team support",
+        "alt": "Professional team working on computers"
+      }
+    }
+  },
+  "stats": {
+    "items": {
+      "founded": "year founded",
+      "experience": "over 20 years of experience",
+      "services": "service areas",
+      "customers": "customer profiles: businesses and individuals"
+    }
+  },
+  "process": {
+    "title": "From need to maintenance",
+    "imageAlt": "Computer equipment prepared for installation",
+    "items": {
+      "survey": {
+        "title": "Selection and preparation",
+        "description": "Reviewing uses, selecting equipment, and preparing a suitable configuration."
+      },
+      "fabrication": {
+        "title": "Setup and follow-up",
+        "description": "Commissioning, checking operation, and maintaining equipment as needs evolve."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Practical answers to real needs",
+    "ratingLabel": "Support areas",
+    "items": {
+      "foodIndustry": {
+        "name": "Equip workstations",
+        "company": "Equipment and supplies",
+        "quote": "Clear choices for computers and peripherals suited to everyday work.",
+        "imageAlt": "Professional computer workstation"
+      },
+      "industrialMaintenance": {
+        "name": "Set up equipment",
+        "company": "Installation and configuration",
+        "quote": "Prepared and checked installation so equipment is ready to use in good conditions.",
+        "imageAlt": "Computer equipment installation"
+      },
+      "logistics": {
+        "name": "Maintain equipment",
+        "company": "Support and care",
+        "quote": "Local support to diagnose, maintain, and extend the life of computer equipment.",
+        "imageAlt": "Computer maintenance"
+      }
+    }
+  },
+  "blog": {
+    "title": "Advice and resources",
+    "readMore": "Read more",
+    "items": {
+      "industrialPiping": {
+        "title": "Choosing a professional computer workstation",
+        "date": "12 Mar",
+        "alt": "Professional computer workstation"
+      },
+      "loadingDock": {
+        "title": "Preparing a local network installation",
+        "date": "28 Feb",
+        "alt": "Cables connected to network equipment"
+      },
+      "qualityTraceability": {
+        "title": "Maintaining computer equipment",
+        "date": "14 Feb",
+        "alt": "Technician performing computer maintenance"
+      },
+      "conveyorFlow": {
+        "title": "Organizing workstations for a small team",
+        "date": "8 Jan",
+        "alt": "Team working on computers"
+      }
+    }
+  }
+}

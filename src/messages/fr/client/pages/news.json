@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "title": "Actualités & événements",
+    "description": "Retrouvez les informations utiles sur les services INFO-L@N."
+  },
+  "readMore": "Lire la suite",
+  "ctaTitle": "Un besoin informatique à Casablanca ?",
+  "ctaButton": "Contactez-nous",
+  "articles": [
+    {
+      "title": "Matériel & consommables",
+      "date": "Service INFO-L@N",
+      "summary": "Ordinateurs, périphériques et consommables sélectionnés selon les usages."
+    },
+    {
+      "title": "Installation & mise en service",
+      "date": "Service INFO-L@N",
+      "summary": "Configuration et vérification du matériel avant son utilisation."
+    },
+    {
+      "title": "Maintenance & assistance",
+      "date": "Service INFO-L@N",
+      "summary": "Diagnostic, entretien et accompagnement des utilisateurs."
+    }
+  ]
+}

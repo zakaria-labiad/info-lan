@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "Guides techniques",
+    "description": "Consultez des repères pratiques pour choisir et entretenir votre informatique."
+  },
+  "download": "Télécharger le guide",
+  "ctaTitle": "Besoin d’un guide pour votre projet ?",
+  "ctaButton": "Contactez-nous",
+  "items": [
+    {
+      "title": "Guide de choix d'un poste informatique",
+      "description": "Usages, mémoire, stockage, écran et périphériques à considérer.",
+      "pages": "Sur demande",
+      "format": "PDF",
+      "href": "/contact"
+    },
+    {
+      "title": "Préparer une installation réseau",
+      "description": "Équipements, câblage et vérifications à prévoir avant la mise en service.",
+      "pages": "Sur demande",
+      "format": "PDF",
+      "href": "/contact"
+    },
+    {
+      "title": "Repères de maintenance informatique",
+      "description": "Points simples pour entretenir le matériel et préparer un diagnostic.",
+      "pages": "Sur demande",
+      "format": "PDF",
+      "href": "/contact"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "logoLabel": "Accueil INFO-L@N",
+  "logoAlt": "Logo INFO-L@N",
+  "quote": "Contactez-nous",
+  "openSideMenu": "Ouvrir le panneau",
+  "language": {
+    "label": "Changer de langue"
+  },
+  "mobile": {
+    "open": "Ouvrir le menu",
+    "close": "Fermer le menu",
+    "navigationLabel": "Navigation mobile"
+  },
+  "nav": {
+    "home": "Accueil",
+    "contact": "Contact",
+    "products": {
+      "title": "Produits",
+      "allTitle": "Toutes les catégories",
+      "description": "Découvrez notre sélection de matériel, périphériques et consommables informatiques.",
+      "items": {
+        "piping": "Ordinateurs",
+        "tanks": "Serveurs & stockage",
+        "boilermaking": "Impression",
+        "conveyors": "Réseau",
+        "docks": "Sécurité informatique",
+        "structures": "Équipement de bureau",
+        "shelving": "Sauvegarde",
+        "safety": "Logiciels & protection",
+        "workshop": "Maintenance",
+        "display": "Écrans",
+        "specials": "Accessoires"
+      }
+    },
+    "domains": {
+      "title": "Services",
+      "allTitle": "Tous les services",
+      "description": "De l'achat à la maintenance, découvrez l'accompagnement INFO-L@N.",
+      "items": {
+        "industrialPiping": "Matériel & consommables",
+        "industrialBoilermaking": "Installation & mise en service",
+        "conveyors": "Maintenance & assistance",
+        "loadingDocks": "Réseau & connectivité",
+        "shelving": "Périphériques & stockage",
+        "workshopDisplay": "Conseil & configuration"
+      }
+    },
+    "company": {
+      "title": "Entreprise",
+      "allTitle": "À propos de nous",
+      "description": "Découvrez notre présence à Casablanca et notre accompagnement depuis 2005.",
+      "items": {
+        "contact": "Contact",
+        "reviews": "Nos engagements",
+        "news": "Actualités",
+        "about": "À propos",
+        "partners": "Solutions"
+      }
+    },
+    "resources": {
+      "title": "Ressources",
+      "allTitle": "Notre blog",
+      "description": "Retrouvez nos conseils pratiques pour choisir, installer et entretenir votre informatique.",
+      "items": {
+        "blog": "Blog",
+        "faq": "FAQ",
+        "guides": "Guides",
+        "downloads": "Téléchargements",
+        "galeries": "Galeries"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "About us",
+    "description": "Discover INFO-L@N, a local IT company established in Casablanca since 2005."
+  },
+  "highlights": {
+    "title": "An approach built around listening, advice, and continuity.",
+    "items": {
+      "delivery": {
+        "title": "Local support",
+        "description": "INFO-L@N serves businesses and individuals from its Casablanca location."
+      },
+      "technicalAdvice": {
+        "title": "Technical advice",
+        "description": "The team helps select, install, and maintain equipment suited to real uses."
+      }
+    }
+  },
+  "story": {
+    "title": "At your side since 2005",
+    "banner": "Sales, installation, and maintenance",
+    "description": "Based in Casablanca, INFO-L@N primarily supports businesses while welcoming individuals for the selection, setup, and maintenance of computer equipment.",
+    "cta": "View our services",
+    "imageAlt": "Professional team using computers in an office",
+    "bannerAlt": "Team receiving support with its computer equipment"
+  },
+  "video": {
+    "play": "View INFO-L@N presentation",
+    "imageAlt": "INFO-L@N team discussing an IT requirement",
+    "marks": {
+      "piping": "Equipment",
+      "boilermaking": "Installation",
+      "conveyors": "Maintenance"
+    }
+  },
+  "marquee": {
+    "trust": "Trust",
+    "quality": "Quality",
+    "reliability": "Reliability",
+    "integrity": "Integrity",
+    "commitment": "Commitment",
+    "precision": "Precision",
+    "innovation": "Innovation",
+    "excellence": "Excellence"
+  },
+  "achievements": {
+    "title": "Three verified reference points",
+    "description": "Since 2005, INFO-L@N has developed three complementary service areas in Casablanca: equipment, installation, and maintenance.",
+    "imageAlt": "Checking computer equipment",
+    "items": {
+      "experience": "year founded",
+      "sectors": "local base",
+      "quality": "service areas"
+    }
+  },
+  "professionals": {
+    "title": "Skills mobilized",
+    "items": {
+      "engineering": {
+        "name": "Advice",
+        "role": "Use analysis and equipment selection",
+        "alt": "Advice on choosing a computer"
+      },
+      "fabrication": {
+        "name": "Installation",
+        "role": "Configuration and setup",
+        "alt": "Installing a computer workstation"
+      },
+      "quality": {
+        "name": "Maintenance",
+        "role": "Equipment diagnostics and care",
+        "alt": "Maintaining computer equipment"
+      },
+      "site": {
+        "name": "Support",
+        "role": "Practical help for users",
+        "alt": "Supporting computer users"
+      }
+    }
+  }
+}

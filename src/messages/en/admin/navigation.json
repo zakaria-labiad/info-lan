@@ -1,0 +1,18 @@
+{
+  "dashboard": "Dashboard",
+  "viewSite": "View site",
+  "overview": {
+    "title": "Admin",
+    "description": "Admin overview. Choose a section to continue.",
+    "metadataDescription": "INFO-L@N admin overview."
+  },
+  "login": {
+    "title": "Login",
+    "description": "Admin sign-in form will be published here.",
+    "metadataDescription": "Sign in to the INFO-L@N admin area."
+  },
+  "dashboardPage": {
+    "description": "Admin metrics and management tools will be published here.",
+    "metadataDescription": "INFO-L@N admin dashboard."
+  }
+}

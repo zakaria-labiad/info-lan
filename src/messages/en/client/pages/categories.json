@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "Categories",
+    "description": "Explore our selection of computer equipment and IT solutions."
+  },
+  "viewProducts": "View products",
+  "quote": "Request a quote",
+  "catalogue": "Download the catalogue",
+  "categories": {
+    "piping": "Computers",
+    "tanks": "Servers & storage",
+    "boilermaking": "Printing",
+    "conveyors": "Networking",
+    "docks": "IT security",
+    "structures": "Office equipment",
+    "shelving": "Backup",
+    "safety": "Software & protection",
+    "workshop": "Maintenance",
+    "display": "Displays",
+    "specials": "Accessories & solutions"
+  }
+}

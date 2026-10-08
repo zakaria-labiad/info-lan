@@ -1,0 +1,73 @@
+{
+  "logoLabel": "INFO-L@N home",
+  "logoAlt": "INFO-L@N logo",
+  "quote": "Contact us",
+  "openSideMenu": "Open side menu",
+  "language": {
+    "label": "Change language"
+  },
+  "mobile": {
+    "open": "Open menu",
+    "close": "Close menu",
+    "navigationLabel": "Mobile navigation"
+  },
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "products": {
+      "title": "Products",
+      "allTitle": "All categories",
+      "description": "Explore our selection of computer equipment, peripherals, and supplies.",
+      "items": {
+        "piping": "Computers",
+        "tanks": "Servers & storage",
+        "boilermaking": "Printing",
+        "conveyors": "Networking",
+        "docks": "IT security",
+        "structures": "Office equipment",
+        "shelving": "Backup",
+        "safety": "Software & protection",
+        "workshop": "Maintenance",
+        "display": "Displays",
+        "specials": "Accessories"
+      }
+    },
+    "domains": {
+      "title": "Services",
+      "allTitle": "All services",
+      "description": "From purchase to maintenance, explore INFO-L@N support.",
+      "items": {
+        "industrialPiping": "Equipment & supplies",
+        "industrialBoilermaking": "Installation & setup",
+        "conveyors": "Maintenance & support",
+        "loadingDocks": "Network & connectivity",
+        "shelving": "Peripherals & storage",
+        "workshopDisplay": "Advice & configuration"
+      }
+    },
+    "company": {
+      "title": "Company",
+      "allTitle": "About us",
+      "description": "Learn about our Casablanca presence and support since 2005.",
+      "items": {
+        "contact": "Contact",
+        "reviews": "Our commitments",
+        "news": "News",
+        "about": "About",
+        "partners": "Solutions"
+      }
+    },
+    "resources": {
+      "title": "Resources",
+      "allTitle": "Our blog",
+      "description": "Read practical guidance on choosing, installing, and maintaining your IT.",
+      "items": {
+        "blog": "Blog",
+        "faq": "FAQ",
+        "guides": "Guides",
+        "downloads": "Downloads",
+        "galeries": "Galleries"
+      }
+    }
+  }
+}

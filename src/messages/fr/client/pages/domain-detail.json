@@ -1,0 +1,1010 @@
+{
+  "eyebrow": "Service informatique",
+  "quote": "Contactez-nous",
+  "expert": "Parler à un expert",
+  "imageAlt": "Illustration informatique pour {domain}",
+  "proofTitle": "Du besoin au suivi",
+  "viewAllProducts": "Tous les produits",
+  "viewAllPosts": "Tous les articles",
+  "productAction": "Voir le produit",
+  "blogAction": "Lire l'article",
+  "faqIntro": "Ces réponses présentent l'accompagnement INFO-L@N autour de {domain}. Pour préciser votre besoin, contactez-nous.",
+  "contactCta": {
+    "label": "Une question ? Contactez-nous",
+    "href": "/contact"
+  },
+  "sections": {
+    "overview": "Ce que INFO-L@N prend en charge",
+    "processEyebrow": "Méthode projet",
+    "process": "Un parcours simple et lisible",
+    "productsEyebrow": "Produits liés",
+    "products": "Équipements associés à ce service",
+    "blogEyebrow": "Ressources",
+    "blog": "Conseils pour préparer votre besoin",
+    "faq": "FAQ du domaine"
+  },
+  "domains": {
+    "industrialPiping": {
+      "title": "Matériel & consommables",
+      "heroDescription": "Choisir les ordinateurs, périphériques et consommables adaptés aux usages professionnels.",
+      "intro": "Sélection, préparation et fourniture de matériel informatique avec un conseil clair à Casablanca.",
+      "fitTitle": "Matériel & consommables pour votre activité",
+      "fitDescription": "Chaque recommandation part des usages, du matériel existant et des priorités de l'organisation.",
+      "capabilityLead": "INFO-L@N accompagne le besoin depuis le choix jusqu'à la mise en service et au suivi.",
+      "capabilities": [
+        {
+          "title": "Écoute du besoin",
+          "description": "Identifier les usages, les contraintes et le matériel déjà en place.",
+          "icon": "access"
+        },
+        {
+          "title": "Choix adapté",
+          "description": "Comparer les options utiles sans ajouter de complexité inutile.",
+          "icon": "material"
+        },
+        {
+          "title": "Préparation",
+          "description": "Configurer et vérifier les équipements avant leur utilisation.",
+          "icon": "configurations"
+        },
+        {
+          "title": "Suivi",
+          "description": "Rester disponible pour l'entretien et l'assistance.",
+          "icon": "safety"
+        }
+      ],
+      "process": [
+        {
+          "title": "Comprendre",
+          "description": "Clarifier les usages, les priorités et le budget."
+        },
+        {
+          "title": "Préparer",
+          "description": "Sélectionner, configurer et contrôler le matériel."
+        },
+        {
+          "title": "Accompagner",
+          "description": "Mettre en service puis organiser le suivi utile."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Poste informatique",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/speciaux/process-skid",
+          "icon": "equipment"
+        },
+        {
+          "title": "Équipement réseau",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/cuves/storage-tank",
+          "icon": "network"
+        },
+        {
+          "title": "Solution de maintenance",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/structures/technical-platform",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Bien choisir son matériel",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "12 mars 2026",
+          "href": "/resources/blog/preparing-industrial-site-steel-installation"
+        },
+        {
+          "title": "Préparer une installation",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "9 mai 2025",
+          "href": "/resources/blog/commissioning-checklist-industrial-installations"
+        },
+        {
+          "title": "Entretenir ses équipements",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "6 nov. 2025",
+          "href": "/resources/blog/industrial-project-documentation"
+        },
+        {
+          "title": "Organiser un réseau local",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "13 sept. 2025",
+          "href": "/resources/blog/stainless-steel-food-process-equipment"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "INFO-L@N accompagne-t-il les entreprises ?",
+          "description": "Oui. L'accompagnement vise d'abord les entreprises, tout en restant ouvert aux particuliers."
+        },
+        {
+          "title": "Peut-on demander conseil avant un achat ?",
+          "description": "Oui. Le besoin et les usages peuvent être précisés avant de choisir le matériel."
+        },
+        {
+          "title": "L'installation est-elle proposée ?",
+          "description": "Oui. L'installation et la mise en service font partie des trois domaines de service annoncés."
+        },
+        {
+          "title": "La maintenance est-elle disponible ?",
+          "description": "Oui. INFO-L@N propose la maintenance et l'assistance du matériel informatique."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Accompagnement",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-equipment.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Conseil pratique",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "groups": [
+            {
+              "title": "Équipements",
+              "items": [
+                "Ordinateurs",
+                "Périphériques",
+                "Réseau",
+                "Stockage"
+              ]
+            },
+            {
+              "title": "Usages",
+              "items": [
+                "Bureautique",
+                "Collaboration",
+                "Sauvegarde",
+                "Impression"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "srcParts": [
+                "/images/home/info-lan-equipment.webp"
+              ],
+              "alt": "Service informatique INFO-L@N à Casablanca"
+            }
+          ]
+        }
+      ]
+    },
+    "boilermaking": {
+      "title": "Installation & mise en service",
+      "heroDescription": "Installer, configurer et vérifier les postes et équipements avant leur utilisation.",
+      "intro": "Une mise en service structurée pour disposer d'un matériel prêt à travailler.",
+      "fitTitle": "Installation & mise en service pour votre activité",
+      "fitDescription": "Chaque recommandation part des usages, du matériel existant et des priorités de l'organisation.",
+      "capabilityLead": "INFO-L@N accompagne le besoin depuis le choix jusqu'à la mise en service et au suivi.",
+      "capabilities": [
+        {
+          "title": "Écoute du besoin",
+          "description": "Identifier les usages, les contraintes et le matériel déjà en place.",
+          "icon": "tank"
+        },
+        {
+          "title": "Choix adapté",
+          "description": "Comparer les options utiles sans ajouter de complexité inutile.",
+          "icon": "welded"
+        },
+        {
+          "title": "Préparation",
+          "description": "Configurer et vérifier les équipements avant leur utilisation.",
+          "icon": "finish"
+        },
+        {
+          "title": "Suivi",
+          "description": "Rester disponible pour l'entretien et l'assistance.",
+          "icon": "quality"
+        }
+      ],
+      "process": [
+        {
+          "title": "Comprendre",
+          "description": "Clarifier les usages, les priorités et le budget."
+        },
+        {
+          "title": "Préparer",
+          "description": "Sélectionner, configurer et contrôler le matériel."
+        },
+        {
+          "title": "Accompagner",
+          "description": "Mettre en service puis organiser le suivi utile."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Poste informatique",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/cuves/mixing-vat",
+          "icon": "equipment"
+        },
+        {
+          "title": "Équipement réseau",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/cuves/pressure-vessel",
+          "icon": "network"
+        },
+        {
+          "title": "Solution de maintenance",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/speciaux/boilermade-part",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Bien choisir son matériel",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "14 fév. 2026",
+          "href": "/resources/blog/quality-controls-welded-assemblies"
+        },
+        {
+          "title": "Préparer une installation",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "17 janv. 2026",
+          "href": "/resources/blog/industrial-tank-material-selection"
+        },
+        {
+          "title": "Entretenir ses équipements",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "4 juil. 2025",
+          "href": "/resources/blog/inspection-points-pressure-equipment"
+        },
+        {
+          "title": "Organiser un réseau local",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "19 déc. 2025",
+          "href": "/resources/blog/surface-treatment-metal-structures"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "INFO-L@N accompagne-t-il les entreprises ?",
+          "description": "Oui. L'accompagnement vise d'abord les entreprises, tout en restant ouvert aux particuliers."
+        },
+        {
+          "title": "Peut-on demander conseil avant un achat ?",
+          "description": "Oui. Le besoin et les usages peuvent être précisés avant de choisir le matériel."
+        },
+        {
+          "title": "L'installation est-elle proposée ?",
+          "description": "Oui. L'installation et la mise en service font partie des trois domaines de service annoncés."
+        },
+        {
+          "title": "La maintenance est-elle disponible ?",
+          "description": "Oui. INFO-L@N propose la maintenance et l'assistance du matériel informatique."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Accompagnement",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ],
+              "alt": "Service informatique INFO-L@N à Casablanca"
+            }
+          ]
+        },
+        {
+          "title": "Conseil pratique",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          }
+        }
+      ]
+    },
+    "conveyors": {
+      "title": "Maintenance & assistance",
+      "heroDescription": "Diagnostiquer, entretenir et accompagner les utilisateurs dans la durée.",
+      "intro": "Un suivi local pour préserver la continuité et la durée de vie des équipements.",
+      "fitTitle": "Maintenance & assistance pour votre activité",
+      "fitDescription": "Chaque recommandation part des usages, du matériel existant et des priorités de l'organisation.",
+      "capabilityLead": "INFO-L@N accompagne le besoin depuis le choix jusqu'à la mise en service et au suivi.",
+      "capabilities": [
+        {
+          "title": "Écoute du besoin",
+          "description": "Identifier les usages, les contraintes et le matériel déjà en place.",
+          "icon": "flow"
+        },
+        {
+          "title": "Choix adapté",
+          "description": "Comparer les options utiles sans ajouter de complexité inutile.",
+          "icon": "structure"
+        },
+        {
+          "title": "Préparation",
+          "description": "Configurer et vérifier les équipements avant leur utilisation.",
+          "icon": "integration"
+        },
+        {
+          "title": "Suivi",
+          "description": "Rester disponible pour l'entretien et l'assistance.",
+          "icon": "scalable"
+        }
+      ],
+      "process": [
+        {
+          "title": "Comprendre",
+          "description": "Clarifier les usages, les priorités et le budget."
+        },
+        {
+          "title": "Préparer",
+          "description": "Sélectionner, configurer et contrôler le matériel."
+        },
+        {
+          "title": "Accompagner",
+          "description": "Mettre en service puis organiser le suivi utile."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Poste informatique",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/convoyeurs/belt-conveyor",
+          "icon": "equipment"
+        },
+        {
+          "title": "Équipement réseau",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/convoyeurs/roller-conveyor",
+          "icon": "network"
+        },
+        {
+          "title": "Solution de maintenance",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/convoyeurs/transfer-cart",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Bien choisir son matériel",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "8 janv. 2026",
+          "href": "/resources/blog/conveyor-layout-production-flow"
+        },
+        {
+          "title": "Préparer une installation",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "28 fév. 2026",
+          "href": "/resources/blog/choosing-heavy-handling-equipment"
+        },
+        {
+          "title": "Entretenir ses équipements",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "29 août 2025",
+          "href": "/resources/blog/operator-access-around-machines"
+        },
+        {
+          "title": "Organiser un réseau local",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "30 mai 2025",
+          "href": "/resources/blog/noise-vibration-heavy-equipment"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "INFO-L@N accompagne-t-il les entreprises ?",
+          "description": "Oui. L'accompagnement vise d'abord les entreprises, tout en restant ouvert aux particuliers."
+        },
+        {
+          "title": "Peut-on demander conseil avant un achat ?",
+          "description": "Oui. Le besoin et les usages peuvent être précisés avant de choisir le matériel."
+        },
+        {
+          "title": "L'installation est-elle proposée ?",
+          "description": "Oui. L'installation et la mise en service font partie des trois domaines de service annoncés."
+        },
+        {
+          "title": "La maintenance est-elle disponible ?",
+          "description": "Oui. INFO-L@N propose la maintenance et l'assistance du matériel informatique."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Accompagnement",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/categories/convoyeurs/belt-conveyor"
+          }
+        },
+        {
+          "title": "Conseil pratique",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Continuité",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Accompagnement",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/categories/convoyeurs/roller-conveyor"
+          }
+        },
+        {
+          "title": "Conseil pratique",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "loadingDocks": {
+      "title": "Réseau & connectivité",
+      "heroDescription": "Relier les postes et équipements avec une infrastructure réseau adaptée.",
+      "intro": "Câblage, équipements réseau et vérification de la connectivité selon le besoin.",
+      "fitTitle": "Réseau & connectivité pour votre activité",
+      "fitDescription": "Chaque recommandation part des usages, du matériel existant et des priorités de l'organisation.",
+      "capabilityLead": "INFO-L@N accompagne le besoin depuis le choix jusqu'à la mise en service et au suivi.",
+      "capabilities": [
+        {
+          "title": "Écoute du besoin",
+          "description": "Identifier les usages, les contraintes et le matériel déjà en place.",
+          "icon": "access"
+        },
+        {
+          "title": "Choix adapté",
+          "description": "Comparer les options utiles sans ajouter de complexité inutile.",
+          "icon": "frame"
+        },
+        {
+          "title": "Préparation",
+          "description": "Configurer et vérifier les équipements avant leur utilisation.",
+          "icon": "safety"
+        },
+        {
+          "title": "Suivi",
+          "description": "Rester disponible pour l'entretien et l'assistance.",
+          "icon": "coordination"
+        }
+      ],
+      "process": [
+        {
+          "title": "Comprendre",
+          "description": "Clarifier les usages, les priorités et le budget."
+        },
+        {
+          "title": "Préparer",
+          "description": "Sélectionner, configurer et contrôler le matériel."
+        },
+        {
+          "title": "Accompagner",
+          "description": "Mettre en service puis organiser le suivi utile."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Poste informatique",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/quais/loading-frame",
+          "icon": "equipment"
+        },
+        {
+          "title": "Équipement réseau",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/quais/tilting-skip",
+          "icon": "network"
+        },
+        {
+          "title": "Solution de maintenance",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/quais/maintenance-platform",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Bien choisir son matériel",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "18 oct. 2025",
+          "href": "/resources/blog/transporting-oversized-metalwork"
+        },
+        {
+          "title": "Préparer une installation",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "21 nov. 2025",
+          "href": "/resources/blog/lifting-plan-large-fabricated-parts"
+        },
+        {
+          "title": "Entretenir ses équipements",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "28 fév. 2026",
+          "href": "/resources/blog/choosing-heavy-handling-equipment"
+        },
+        {
+          "title": "Organiser un réseau local",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "29 janv. 2026",
+          "href": "/resources/blog/walkways-guardrails-safety-review"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "INFO-L@N accompagne-t-il les entreprises ?",
+          "description": "Oui. L'accompagnement vise d'abord les entreprises, tout en restant ouvert aux particuliers."
+        },
+        {
+          "title": "Peut-on demander conseil avant un achat ?",
+          "description": "Oui. Le besoin et les usages peuvent être précisés avant de choisir le matériel."
+        },
+        {
+          "title": "L'installation est-elle proposée ?",
+          "description": "Oui. L'installation et la mise en service font partie des trois domaines de service annoncés."
+        },
+        {
+          "title": "La maintenance est-elle disponible ?",
+          "description": "Oui. INFO-L@N propose la maintenance et l'assistance du matériel informatique."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Accompagnement",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-equipment.webp"
+              ]
+            }
+          ],
+          "groups": [
+            {
+              "title": "Équipements",
+              "items": [
+                "Ordinateurs",
+                "Périphériques",
+                "Réseau",
+                "Stockage"
+              ]
+            },
+            {
+              "title": "Usages",
+              "items": [
+                "Bureautique",
+                "Collaboration",
+                "Sauvegarde",
+                "Impression"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          }
+        }
+      ]
+    },
+    "shelving": {
+      "title": "Périphériques & stockage",
+      "heroDescription": "Compléter les postes avec les bons périphériques et des solutions de stockage.",
+      "intro": "Écrans, impression, accessoires et stockage sélectionnés pour l'activité.",
+      "fitTitle": "Périphériques & stockage pour votre activité",
+      "fitDescription": "Chaque recommandation part des usages, du matériel existant et des priorités de l'organisation.",
+      "capabilityLead": "INFO-L@N accompagne le besoin depuis le choix jusqu'à la mise en service et au suivi.",
+      "capabilities": [
+        {
+          "title": "Écoute du besoin",
+          "description": "Identifier les usages, les contraintes et le matériel déjà en place.",
+          "icon": "load"
+        },
+        {
+          "title": "Choix adapté",
+          "description": "Comparer les options utiles sans ajouter de complexité inutile.",
+          "icon": "organization"
+        },
+        {
+          "title": "Préparation",
+          "description": "Configurer et vérifier les équipements avant leur utilisation.",
+          "icon": "configurations"
+        },
+        {
+          "title": "Suivi",
+          "description": "Rester disponible pour l'entretien et l'assistance.",
+          "icon": "durable"
+        }
+      ],
+      "process": [
+        {
+          "title": "Comprendre",
+          "description": "Clarifier les usages, les priorités et le budget."
+        },
+        {
+          "title": "Préparer",
+          "description": "Sélectionner, configurer et contrôler le matériel."
+        },
+        {
+          "title": "Accompagner",
+          "description": "Mettre en service puis organiser le suivi utile."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Poste informatique",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/rayonnage/custom-rack",
+          "icon": "equipment"
+        },
+        {
+          "title": "Équipement réseau",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/atelier/tool-storage",
+          "icon": "network"
+        },
+        {
+          "title": "Solution de maintenance",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/structures/technical-platform",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Bien choisir son matériel",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "16 juin 2025",
+          "href": "/resources/blog/warehouse-flow-metal-components"
+        },
+        {
+          "title": "Préparer une installation",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "11 août 2025",
+          "href": "/resources/blog/spare-parts-strategy-custom-equipment"
+        },
+        {
+          "title": "Entretenir ses équipements",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "23 juil. 2025",
+          "href": "/resources/blog/factory-layout-before-fabrication"
+        },
+        {
+          "title": "Organiser un réseau local",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "1 oct. 2025",
+          "href": "/resources/blog/retrofit-existing-industrial-structures"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "INFO-L@N accompagne-t-il les entreprises ?",
+          "description": "Oui. L'accompagnement vise d'abord les entreprises, tout en restant ouvert aux particuliers."
+        },
+        {
+          "title": "Peut-on demander conseil avant un achat ?",
+          "description": "Oui. Le besoin et les usages peuvent être précisés avant de choisir le matériel."
+        },
+        {
+          "title": "L'installation est-elle proposée ?",
+          "description": "Oui. L'installation et la mise en service font partie des trois domaines de service annoncés."
+        },
+        {
+          "title": "La maintenance est-elle disponible ?",
+          "description": "Oui. INFO-L@N propose la maintenance et l'assistance du matériel informatique."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Accompagnement",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Conseil pratique",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ]
+            }
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          }
+        },
+        {
+          "title": "Continuité",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/categories/rayonnage/custom-rack"
+          },
+          "images": [
+            {
+              "srcParts": [
+                "/images/home/info-lan-installation.webp"
+              ],
+              "alt": "Service informatique INFO-L@N à Casablanca"
+            }
+          ]
+        }
+      ]
+    },
+    "workshopDisplay": {
+      "title": "Conseil & configuration",
+      "heroDescription": "Transformer un besoin concret en configuration informatique cohérente.",
+      "intro": "Des choix expliqués, une préparation pratique et un accompagnement de proximité.",
+      "fitTitle": "Conseil & configuration pour votre activité",
+      "fitDescription": "Chaque recommandation part des usages, du matériel existant et des priorités de l'organisation.",
+      "capabilityLead": "INFO-L@N accompagne le besoin depuis le choix jusqu'à la mise en service et au suivi.",
+      "capabilities": [
+        {
+          "title": "Écoute du besoin",
+          "description": "Identifier les usages, les contraintes et le matériel déjà en place.",
+          "icon": "display"
+        },
+        {
+          "title": "Choix adapté",
+          "description": "Comparer les options utiles sans ajouter de complexité inutile.",
+          "icon": "furniture"
+        },
+        {
+          "title": "Préparation",
+          "description": "Configurer et vérifier les équipements avant leur utilisation.",
+          "icon": "visibility"
+        },
+        {
+          "title": "Suivi",
+          "description": "Rester disponible pour l'entretien et l'assistance.",
+          "icon": "durable"
+        }
+      ],
+      "process": [
+        {
+          "title": "Comprendre",
+          "description": "Clarifier les usages, les priorités et le budget."
+        },
+        {
+          "title": "Préparer",
+          "description": "Sélectionner, configurer et contrôler le matériel."
+        },
+        {
+          "title": "Accompagner",
+          "description": "Mettre en service puis organiser le suivi utile."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "title": "Poste informatique",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/atelier/metal-workbench",
+          "icon": "equipment"
+        },
+        {
+          "title": "Équipement réseau",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/atelier/tool-storage",
+          "icon": "network"
+        },
+        {
+          "title": "Solution de maintenance",
+          "description": "Une solution sélectionnée et préparée selon l'usage.",
+          "href": "/categories/atelier/welding-table",
+          "icon": "maintenance"
+        }
+      ],
+      "relatedPosts": [
+        {
+          "title": "Bien choisir son matériel",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "23 juil. 2025",
+          "href": "/resources/blog/factory-layout-before-fabrication"
+        },
+        {
+          "title": "Préparer une installation",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "29 août 2025",
+          "href": "/resources/blog/operator-access-around-machines"
+        },
+        {
+          "title": "Entretenir ses équipements",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "16 juin 2025",
+          "href": "/resources/blog/warehouse-flow-metal-components"
+        },
+        {
+          "title": "Organiser un réseau local",
+          "description": "Des repères pratiques pour préparer votre besoin informatique.",
+          "date": "6 nov. 2025",
+          "href": "/resources/blog/industrial-project-documentation"
+        }
+      ],
+      "faqs": [
+        {
+          "title": "INFO-L@N accompagne-t-il les entreprises ?",
+          "description": "Oui. L'accompagnement vise d'abord les entreprises, tout en restant ouvert aux particuliers."
+        },
+        {
+          "title": "Peut-on demander conseil avant un achat ?",
+          "description": "Oui. Le besoin et les usages peuvent être précisés avant de choisir le matériel."
+        },
+        {
+          "title": "L'installation est-elle proposée ?",
+          "description": "Oui. L'installation et la mise en service font partie des trois domaines de service annoncés."
+        },
+        {
+          "title": "La maintenance est-elle disponible ?",
+          "description": "Oui. INFO-L@N propose la maintenance et l'assistance du matériel informatique."
+        }
+      ],
+      "detailSections": [
+        {
+          "title": "Accompagnement",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conseil pratique",
+          "paragraphs": [
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple.",
+            "INFO-L@N relie le choix, la mise en service et la maintenance pour garder un parcours simple."
+          ],
+          "action": {
+            "label": "Contactez-nous",
+            "href": "/contact"
+          },
+          "images": [
+            {
+              "alt": "Service informatique INFO-L@N à Casablanca",
+              "srcParts": [
+                "/images/home/info-lan-maintenance.webp"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "errors": {
+    "unexpected": "Something went wrong",
+    "retry": "Try again",
+    "notFound": "Page not found",
+    "notFoundDescription": "The page you requested does not exist."
+  },
+  "loading": "Loading...",
+  "navigation": {
+    "previous": "Previous",
+    "next": "Next",
+    "backToTop": "Back to top"
+  },
+  "media": {
+    "heroAlt": "Professional IT infrastructure",
+    "companyOverview": "View company overview",
+    "homeHeroAlt": "IT technician working in a server room"
+  },
+  "metadata": {
+    "description": "INFO-L@N — Computer equipment sales, installation, and maintenance in Casablanca.",
+    "homeTitle": "Home",
+    "homeDescription": "INFO-L@N supports Casablanca businesses and individuals with their computer equipment."
+  },
+  "controls": {
+    "close": "Close",
+    "breadcrumb": "Breadcrumb",
+    "more": "More"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "French"
+  }
+}

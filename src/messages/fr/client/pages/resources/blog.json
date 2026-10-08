@@ -1,0 +1,1078 @@
+{
+  "hero": {
+    "title": "Blog",
+    "description": "Retrouvez nos conseils, notes de projets et contenus pratiques dédiés à l'informatique."
+  },
+  "readMore": "Lire la suite",
+  "noResults": {
+    "title": "Aucun article trouvé",
+    "description": "Essayez une autre recherche ou choisissez une catégorie différente."
+  },
+  "sidebar": {
+    "searchPlaceholder": "Rechercher",
+    "searchLabel": "Rechercher dans le blog",
+    "recentPosts": "Articles récents",
+    "categories": "Catégories"
+  },
+  "pagination": {
+    "label": "Pagination du blog",
+    "previous": "Page précédente",
+    "next": "Page suivante"
+  },
+  "categories": [
+    {
+      "slug": "all",
+      "label": "Tous"
+    },
+    {
+      "slug": "construction",
+      "label": "Matériel"
+    },
+    {
+      "slug": "metalwork",
+      "label": "Installation"
+    },
+    {
+      "slug": "equipment",
+      "label": "Maintenance"
+    },
+    {
+      "slug": "maintenance",
+      "label": "Conseils"
+    },
+    {
+      "slug": "safety",
+      "label": "Informatique"
+    },
+    {
+      "slug": "quality",
+      "label": "Informatique"
+    },
+    {
+      "slug": "logistics",
+      "label": "Informatique"
+    }
+  ],
+  "posts": [
+    {
+      "slug": "preparing-industrial-site-steel-installation",
+      "category": "construction",
+      "title": "Bien choisir un ordinateur professionnel",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "12 mars 2026",
+      "readTime": "6 min de lecture",
+      "imageAlt": "Bien choisir un ordinateur professionnel — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "choosing-heavy-handling-equipment",
+      "category": "equipment",
+      "title": "Préparer un réseau local",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "28 fév. 2026",
+      "readTime": "5 min de lecture",
+      "imageAlt": "Préparer un réseau local — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "quality-controls-welded-assemblies",
+      "category": "quality",
+      "title": "Entretenir son matériel informatique",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "14 fév. 2026",
+      "readTime": "7 min de lecture",
+      "imageAlt": "Entretenir son matériel informatique — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "walkways-guardrails-safety-review",
+      "category": "safety",
+      "title": "Organiser la sauvegarde des données",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "29 janv. 2026",
+      "readTime": "4 min de lecture",
+      "imageAlt": "Organiser la sauvegarde des données — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "industrial-tank-material-selection",
+      "category": "metalwork",
+      "title": "Choisir un écran pour le travail",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "17 janv. 2026",
+      "readTime": "6 min de lecture",
+      "imageAlt": "Choisir un écran pour le travail — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "conveyor-layout-production-flow",
+      "category": "equipment",
+      "title": "Comprendre le rôle d'un onduleur",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "8 janv. 2026",
+      "readTime": "5 min de lecture",
+      "imageAlt": "Comprendre le rôle d'un onduleur — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "surface-treatment-metal-structures",
+      "category": "metalwork",
+      "title": "Préparer la mise en service d'un poste",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "19 déc. 2025",
+      "readTime": "6 min de lecture",
+      "imageAlt": "Préparer la mise en service d'un poste — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "maintenance-plan-custom-hoppers",
+      "category": "maintenance",
+      "title": "Choisir une imprimante professionnelle",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "3 déc. 2025",
+      "readTime": "5 min de lecture",
+      "imageAlt": "Choisir une imprimante professionnelle — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "lifting-plan-large-fabricated-parts",
+      "category": "safety",
+      "title": "Améliorer la connectivité Wi-Fi",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "21 nov. 2025",
+      "readTime": "7 min de lecture",
+      "imageAlt": "Améliorer la connectivité Wi-Fi — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "industrial-project-documentation",
+      "category": "quality",
+      "title": "Quand remplacer un disque par un SSD",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "6 nov. 2025",
+      "readTime": "6 min de lecture",
+      "imageAlt": "Quand remplacer un disque par un SSD — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "transporting-oversized-metalwork",
+      "category": "logistics",
+      "title": "Les périphériques utiles au bureau",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "18 oct. 2025",
+      "readTime": "4 min de lecture",
+      "imageAlt": "Les périphériques utiles au bureau — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "retrofit-existing-industrial-structures",
+      "category": "construction",
+      "title": "Préparer un diagnostic informatique",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "1 oct. 2025",
+      "readTime": "6 min de lecture",
+      "imageAlt": "Préparer un diagnostic informatique — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "stainless-steel-food-process-equipment",
+      "category": "metalwork",
+      "title": "Garder les postes de travail organisés",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "13 sept. 2025",
+      "readTime": "5 min de lecture",
+      "imageAlt": "Garder les postes de travail organisés — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "operator-access-around-machines",
+      "category": "safety",
+      "title": "Choisir un stockage réseau",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "29 août 2025",
+      "readTime": "4 min de lecture",
+      "imageAlt": "Choisir un stockage réseau — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "spare-parts-strategy-custom-equipment",
+      "category": "maintenance",
+      "title": "Protéger le matériel des coupures",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "11 août 2025",
+      "readTime": "5 min de lecture",
+      "imageAlt": "Protéger le matériel des coupures — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "factory-layout-before-fabrication",
+      "category": "construction",
+      "title": "Planifier l'entretien des équipements",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "23 juil. 2025",
+      "readTime": "6 min de lecture",
+      "imageAlt": "Planifier l'entretien des équipements — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "inspection-points-pressure-equipment",
+      "category": "quality",
+      "title": "Équiper une petite équipe",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "4 juil. 2025",
+      "readTime": "7 min de lecture",
+      "imageAlt": "Équiper une petite équipe — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "warehouse-flow-metal-components",
+      "category": "logistics",
+      "title": "Préparer une migration de données",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "16 juin 2025",
+      "readTime": "4 min de lecture",
+      "imageAlt": "Préparer une migration de données — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "noise-vibration-heavy-equipment",
+      "category": "equipment",
+      "title": "Choisir les consommables d'impression",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "30 mai 2025",
+      "readTime": "5 min de lecture",
+      "imageAlt": "Choisir les consommables d'impression — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "commissioning-checklist-industrial-installations",
+      "category": "maintenance",
+      "title": "Les bases d'une configuration cohérente",
+      "excerpt": "Des repères simples pour faire un choix informatique adapté à l'usage et préparer la suite.",
+      "author": "Équipe INFO-L@N",
+      "date": "9 mai 2025",
+      "readTime": "6 min de lecture",
+      "imageAlt": "Les bases d'une configuration cohérente — conseil informatique",
+      "body": [
+        {
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance.",
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ]
+        },
+        {
+          "heading": "Préparer la mise en service",
+          "paragraphs": [
+            "Un choix utile commence par les usages, l'environnement de travail et le matériel déjà disponible. INFO-L@N aide à relier ces éléments avant l'achat, l'installation et la maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Équipe de relevé contrôlant des mesures sur site"
+            },
+            {
+              "alt": "Inspecteur de chantier prenant des notes sur site actif"
+            }
+          ],
+          "closingParagraphs": [
+            "Le rôle de INFO-L@N est de relier le besoin client, la configurations atelier et la pose sur site dans un flux pratique. Cette continuité aide à gagner du temps, contrôler les coûts et garder les équipements traçables après réception."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Un matériel bien choisi est plus simple à installer, à utiliser et à maintenir.",
+        "author": "Équipe INFO-L@N",
+        "role": "Conseil informatique"
+      },
+      "relatedTags": [
+        "Conseils",
+        "Informatique"
+      ],
+      "authorProfile": {
+        "name": "Équipe INFO-L@N",
+        "imageAlt": "Équipe INFO-L@N",
+        "bio": "INFO-L@N partage des conseils pratiques autour du matériel, de l'installation et de la maintenance informatique.",
+        "socials": []
+      },
+      "comments": []
+    }
+  ]
+}

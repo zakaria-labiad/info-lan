@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "Nos engagements",
+    "description": "Découvrez les principes qui guident l'accompagnement INFO-L@N."
+  },
+  "cta": "Démarrer un projet avec nous",
+  "ctaTitle": "Parlons de votre besoin informatique.",
+  "ctaButton": "Contactez-nous",
+  "ratingLabel": "Engagement INFO-L@N",
+  "items": [
+    {
+      "name": "Présence locale",
+      "company": "Casablanca",
+      "comment": "Une adresse et un numéro de téléphone vérifiés pour échanger directement avec INFO-L@N.",
+      "rating": 1,
+      "initials": "PL",
+      "imageAlt": "Présence locale"
+    },
+    {
+      "name": "Conseil pratique",
+      "company": "Matériel & consommables",
+      "comment": "Des choix expliqués selon les usages avant la mise en service.",
+      "rating": 1,
+      "initials": "CP",
+      "imageAlt": "Conseil pratique"
+    },
+    {
+      "name": "Continuité",
+      "company": "Installation & maintenance",
+      "comment": "Un accompagnement qui relie l'achat, l'installation et la maintenance.",
+      "rating": 1,
+      "initials": "CO",
+      "imageAlt": "Continuité"
+    }
+  ]
+}

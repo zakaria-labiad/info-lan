@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "title": "Contact us",
+    "description": "Contact INFO-L@N for equipment, installation, or maintenance in Casablanca."
+  },
+  "title": "Contact us",
+  "description": "Tell us what you need and our team will respond with the available information.",
+  "email": "Write to us",
+  "phone": "Phone",
+  "address": "Address",
+  "addressValue": "20 rue Banafsaj – ex-Violettes, résidence Nouhayla, Casablanca",
+  "formTitle": "Send message",
+  "fullName": "Full name",
+  "emailPlaceholder": "Email address",
+  "subject": "Message subject",
+  "message": "Your message",
+  "submit": "Send message",
+  "mapTitle": "INFO-L@N location in Casablanca"
+}

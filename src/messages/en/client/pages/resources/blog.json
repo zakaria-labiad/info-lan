@@ -1,0 +1,1078 @@
+{
+  "hero": {
+    "title": "Blog",
+    "description": "Read practical IT IT solutions insights, project notes, and expert advice."
+  },
+  "readMore": "Read more",
+  "noResults": {
+    "title": "No articles found",
+    "description": "Try another search term or choose a different category."
+  },
+  "sidebar": {
+    "searchPlaceholder": "Search here",
+    "searchLabel": "Search blog",
+    "recentPosts": "Recent posts",
+    "categories": "Categories"
+  },
+  "pagination": {
+    "label": "Blog pagination",
+    "previous": "Previous page",
+    "next": "Next page"
+  },
+  "categories": [
+    {
+      "slug": "all",
+      "label": "All"
+    },
+    {
+      "slug": "construction",
+      "label": "Equipment"
+    },
+    {
+      "slug": "metalwork",
+      "label": "Installation"
+    },
+    {
+      "slug": "equipment",
+      "label": "Maintenance"
+    },
+    {
+      "slug": "maintenance",
+      "label": "Advice"
+    },
+    {
+      "slug": "safety",
+      "label": "IT"
+    },
+    {
+      "slug": "quality",
+      "label": "IT"
+    },
+    {
+      "slug": "logistics",
+      "label": "IT"
+    }
+  ],
+  "posts": [
+    {
+      "slug": "preparing-industrial-site-steel-installation",
+      "category": "construction",
+      "title": "Choosing a professional computer",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "12 Mar 2026",
+      "readTime": "6 min read",
+      "imageAlt": "Choosing a professional computer — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "choosing-heavy-handling-equipment",
+      "category": "equipment",
+      "title": "Preparing a local network",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "28 Feb 2026",
+      "readTime": "5 min read",
+      "imageAlt": "Preparing a local network — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "quality-controls-welded-assemblies",
+      "category": "quality",
+      "title": "Maintaining computer equipment",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "14 Feb 2026",
+      "readTime": "7 min read",
+      "imageAlt": "Maintaining computer equipment — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "walkways-guardrails-safety-review",
+      "category": "safety",
+      "title": "Organizing data backups",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "29 Jan 2026",
+      "readTime": "4 min read",
+      "imageAlt": "Organizing data backups — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "industrial-tank-material-selection",
+      "category": "IT solutions",
+      "title": "Choosing a display for work",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "17 Jan 2026",
+      "readTime": "6 min read",
+      "imageAlt": "Choosing a display for work — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "conveyor-layout-production-flow",
+      "category": "equipment",
+      "title": "Understanding the role of a UPS",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "8 Jan 2026",
+      "readTime": "5 min read",
+      "imageAlt": "Understanding the role of a UPS — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "surface-treatment-metal-structures",
+      "category": "IT solutions",
+      "title": "Preparing a workstation setup",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "19 Dec 2025",
+      "readTime": "6 min read",
+      "imageAlt": "Preparing a workstation setup — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "maintenance-plan-custom-hoppers",
+      "category": "maintenance",
+      "title": "Choosing a business printer",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "3 Dec 2025",
+      "readTime": "5 min read",
+      "imageAlt": "Choosing a business printer — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "lifting-plan-large-fabricated-parts",
+      "category": "safety",
+      "title": "Improving Wi-Fi connectivity",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "21 Nov 2025",
+      "readTime": "7 min read",
+      "imageAlt": "Improving Wi-Fi connectivity — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "industrial-project-documentation",
+      "category": "quality",
+      "title": "When to replace a drive with an SSD",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "6 Nov 2025",
+      "readTime": "6 min read",
+      "imageAlt": "When to replace a drive with an SSD — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "transporting-oversized-metalwork",
+      "category": "logistics",
+      "title": "Useful office peripherals",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "18 Oct 2025",
+      "readTime": "4 min read",
+      "imageAlt": "Useful office peripherals — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "retrofit-existing-industrial-structures",
+      "category": "construction",
+      "title": "Preparing an IT diagnosis",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "1 Oct 2025",
+      "readTime": "6 min read",
+      "imageAlt": "Preparing an IT diagnosis — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "stainless-steel-food-process-equipment",
+      "category": "IT solutions",
+      "title": "Keeping workstations organized",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "13 Sep 2025",
+      "readTime": "5 min read",
+      "imageAlt": "Keeping workstations organized — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "operator-access-around-machines",
+      "category": "safety",
+      "title": "Choosing network storage",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "29 Aug 2025",
+      "readTime": "4 min read",
+      "imageAlt": "Choosing network storage — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "spare-parts-strategy-custom-equipment",
+      "category": "maintenance",
+      "title": "Protecting equipment from outages",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "11 Aug 2025",
+      "readTime": "5 min read",
+      "imageAlt": "Protecting equipment from outages — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "factory-layout-before-fabrication",
+      "category": "construction",
+      "title": "Planning equipment maintenance",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "23 Jul 2025",
+      "readTime": "6 min read",
+      "imageAlt": "Planning equipment maintenance — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "inspection-points-pressure-equipment",
+      "category": "quality",
+      "title": "Equipping a small team",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "4 Jul 2025",
+      "readTime": "7 min read",
+      "imageAlt": "Equipping a small team — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "warehouse-flow-metal-components",
+      "category": "logistics",
+      "title": "Preparing a data migration",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "16 Jun 2025",
+      "readTime": "4 min read",
+      "imageAlt": "Preparing a data migration — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "noise-vibration-heavy-equipment",
+      "category": "equipment",
+      "title": "Choosing printing supplies",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "30 May 2025",
+      "readTime": "5 min read",
+      "imageAlt": "Choosing printing supplies — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    },
+    {
+      "slug": "commissioning-checklist-industrial-installations",
+      "category": "maintenance",
+      "title": "The basics of a coherent configuration",
+      "excerpt": "Simple guidance for making an IT choice suited to the use and preparing what comes next.",
+      "author": "INFO-L@N team",
+      "date": "9 May 2025",
+      "readTime": "6 min read",
+      "imageAlt": "The basics of a coherent configuration — IT guidance",
+      "body": [
+        {
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance.",
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ]
+        },
+        {
+          "heading": "Prepare the setup",
+          "paragraphs": [
+            "A useful choice starts with uses, the working environment, and equipment already available. INFO-L@N helps connect these points before purchase, installation, and maintenance."
+          ],
+          "images": [
+            {
+              "alt": "Construction survey team reviewing measurements on site"
+            },
+            {
+              "alt": "Construction inspector writing notes at an active site"
+            }
+          ],
+          "closingParagraphs": [
+            "INFO-L@N's role is to connect the client's need, the workshop configurations, and the on-site installation into one practical flow. That continuity helps clients save time, control costs, and keep equipment traceable after handover."
+          ]
+        }
+      ],
+      "quote": {
+        "text": "Well-chosen equipment is easier to install, use, and maintain.",
+        "author": "INFO-L@N team",
+        "role": "IT guidance"
+      },
+      "relatedTags": [
+        "Advice",
+        "IT"
+      ],
+      "authorProfile": {
+        "name": "INFO-L@N team",
+        "imageAlt": "INFO-L@N team",
+        "bio": "INFO-L@N shares practical guidance on computer equipment, installation, and maintenance.",
+        "socials": []
+      },
+      "comments": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "errors": {
+    "unexpected": "Une erreur s'est produite",
+    "retry": "Réessayer",
+    "notFound": "Page introuvable",
+    "notFoundDescription": "La page demandée n'existe pas."
+  },
+  "loading": "Chargement...",
+  "navigation": {
+    "previous": "Précédent",
+    "next": "Suivant",
+    "backToTop": "Retour en haut"
+  },
+  "media": {
+    "heroAlt": "Infrastructure informatique professionnelle",
+    "companyOverview": "Voir la présentation de l'entreprise",
+    "homeHeroAlt": "Technicien informatique intervenant dans une salle serveurs"
+  },
+  "metadata": {
+    "description": "INFO-L@N — Vente, installation et maintenance de matériel informatique à Casablanca.",
+    "homeTitle": "Accueil",
+    "homeDescription": "INFO-L@N accompagne les entreprises et particuliers de Casablanca pour leurs équipements informatiques."
+  },
+  "controls": {
+    "close": "Fermer",
+    "breadcrumb": "Fil d'Ariane",
+    "more": "Plus"
+  },
+  "languages": {
+    "en": "Anglais",
+    "fr": "Français"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title": "Request a quote",
+    "description": "Share your project requirements and receive a tailored technical and commercial offer."
+  },
+  "form": {
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "company": "Company/Organization",
+    "services": {
+      "title": "What services can we provide you?",
+      "options": {
+        "industrialTanks": "IT tanks",
+        "storageTanks": "Storage tanks",
+        "hoppers": "Hoppers",
+        "skips": "Skips and bins",
+        "conveyors": "IT maintenance",
+        "walkways": "Walkways",
+        "guardrails": "Guardrails",
+        "metalStructures": "computer structures"
+      }
+    },
+    "message": "Message",
+    "submit": "Submit Quote"
+  }
+}

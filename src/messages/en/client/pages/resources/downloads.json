@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Downloads",
+    "description": "Request useful information about INFO-L@N equipment and services."
+  },
+  "download": "Request",
+  "ctaTitle": "Need another document?",
+  "ctaButton": "Contact us",
+  "sections": [
+    {
+      "category": "Equipment & supplies",
+      "items": [
+        {
+          "name": "Computers and peripherals",
+          "size": "On request",
+          "href": "/contact"
+        },
+        {
+          "name": "Printing and supplies",
+          "size": "On request",
+          "href": "/contact"
+        },
+        {
+          "name": "Networking and storage",
+          "size": "On request",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "category": "Installation & setup",
+      "items": [
+        {
+          "name": "Workstation preparation",
+          "size": "On request",
+          "href": "/contact"
+        },
+        {
+          "name": "Network configuration",
+          "size": "On request",
+          "href": "/contact"
+        },
+        {
+          "name": "Operation checks",
+          "size": "On request",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "category": "Maintenance & support",
+      "items": [
+        {
+          "name": "Hardware diagnostics",
+          "size": "On request",
+          "href": "/contact"
+        },
+        {
+          "name": "Equipment care",
+          "size": "On request",
+          "href": "/contact"
+        },
+        {
+          "name": "User support",
+          "size": "On request",
+          "href": "/contact"
+        }
+      ]
+    }
+  ]
+}

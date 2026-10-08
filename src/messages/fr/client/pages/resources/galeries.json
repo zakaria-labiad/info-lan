@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "title": "Galeries",
+    "description": "Découvrez les univers matériel, installation et maintenance informatique de INFO-L@N."
+  },
+  "showMore": "Afficher plus",
+  "openImage": "Ouvrir {label}",
+  "categories": {
+    "all": "Toutes",
+    "boilermaking": "Installation",
+    "piping": "Matériel",
+    "handling": "Maintenance"
+  },
+  "alts": {
+    "boilermaking": "Installation de matériel informatique INFO-L@N",
+    "piping": "Matériel informatique proposé par INFO-L@N",
+    "handling": "Maintenance de matériel informatique INFO-L@N"
+  }
+}

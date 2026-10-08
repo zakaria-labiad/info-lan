@@ -1,0 +1,13 @@
+services:
+  info-lan-frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: info-lan-frontend:latest
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      NEXT_TELEMETRY_DISABLED: "1"
+      PORT: "3000"
+      HOSTNAME: "0.0.0.0"

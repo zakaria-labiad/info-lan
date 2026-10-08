@@ -1,0 +1,10 @@
+export { BlogSection } from "@/components/client/home/sections/blog-section";
+export { BuildsSection } from "@/components/client/home/sections/builds-section";
+export { ChallengeSection } from "@/components/client/home/sections/challenge-section";
+export { HomeIntroSection } from "@/components/client/home/sections/home-intro-section";
+export { HomeMarquee } from "@/components/client/home/sections/home-marquee";
+export { ServicesSection } from "@/components/client/home/sections/services-section";
+export { StatsSection } from "@/components/client/home/sections/stats-section";
+export { TechniqueSection } from "@/components/client/home/sections/technique-section";
+export { TestimonialsSection } from "@/components/client/home/sections/testimonials-section";
+export { VideoSection } from "@/components/client/home/sections/video-section";

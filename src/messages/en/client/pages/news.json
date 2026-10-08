@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "title": "News & events",
+    "description": "Find useful information about INFO-L@N services."
+  },
+  "readMore": "Read more",
+  "ctaTitle": "Need IT support in Casablanca?",
+  "ctaButton": "Contact us",
+  "articles": [
+    {
+      "title": "Equipment & supplies",
+      "date": "INFO-L@N service",
+      "summary": "Computers, peripherals, and supplies selected for the intended uses."
+    },
+    {
+      "title": "Installation & setup",
+      "date": "INFO-L@N service",
+      "summary": "Equipment configuration and checks before use."
+    },
+    {
+      "title": "Maintenance & support",
+      "date": "INFO-L@N service",
+      "summary": "Diagnostics, care, and user support."
+    }
+  ]
+}

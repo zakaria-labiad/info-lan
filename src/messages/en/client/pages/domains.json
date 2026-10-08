@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "Services",
+    "description": "Explore INFO-L@N services: equipment, installation, maintenance, networking, peripherals, and advice."
+  },
+  "cards": {
+    "industrialPiping": "Equipment & supplies",
+    "boilermaking": "Installation & setup",
+    "conveyors": "Maintenance & support",
+    "loadingDocks": "Network & connectivity",
+    "shelving": "Peripherals & storage",
+    "workshopDisplay": "Advice & configuration"
+  },
+  "viewDomain": "View service"
+}

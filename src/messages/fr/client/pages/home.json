@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "title": "Votre informatique, équipée, installée et maintenue.",
+    "supportingText": "Depuis 2005, INFO-L@N accompagne les entreprises de Casablanca dans le choix, la mise en service et la maintenance de leur matériel informatique.",
+    "proofLine1": "Matériel, installation",
+    "proofLine2": "et maintenance informatique",
+    "proofBadges": {
+      "equipment": "MAT",
+      "network": "LAN",
+      "support": "SAV"
+    },
+    "servicePillars": {
+      "label": "Les trois domaines de service INFO-L@N",
+      "equipment": "Matériel & consommables",
+      "installation": "Installation & mise en service",
+      "maintenance": "Maintenance & assistance"
+    }
+  },
+  "intro": {
+    "title": "Des solutions informatiques adaptées à votre activité",
+    "cta": "Découvrir INFO-L@N",
+    "imageAltSmall": "Poste informatique professionnel équipé",
+    "imageAltLarge": "Professionnels utilisant des ordinateurs dans un bureau",
+    "features": {
+      "technicalAdvice": {
+        "title": "Conseil pratique",
+        "description": "Un accompagnement de proximité pour choisir un équipement cohérent avec vos usages et votre budget."
+      },
+      "qualityControl": {
+        "title": "Continuité de service",
+        "description": "Un même interlocuteur de l'achat à l'installation, puis pour l'entretien et l'assistance."
+      }
+    }
+  },
+  "marquee": {
+    "piping": "Ordinateurs",
+    "boilermaking": "Installation",
+    "conveyors": "Réseaux",
+    "loadingDocks": "Maintenance",
+    "shelving": "Consommables"
+  },
+  "services": {
+    "title": "Des services informatiques de proximité",
+    "items": {
+      "industrialPiping": "Matériel & consommables",
+      "boilermaking": "Installation & mise en service",
+      "conveyors": "Maintenance & assistance",
+      "loadingDocks": "Réseau & connectivité"
+    },
+    "readMore": "Voir le service"
+  },
+  "video": {
+    "imageAlt": "Équipe utilisant du matériel informatique professionnel"
+  },
+  "challenge": {
+    "title": "Un interlocuteur local pour votre informatique",
+    "description": "INFO-L@N aide les entreprises et les particuliers à équiper leurs postes, mettre leur matériel en service et organiser sa maintenance à Casablanca.",
+    "imageAlt": "Technicien intervenant sur le câblage d'un ordinateur",
+    "badgeValue": "2005",
+    "badgeLine1": "Présent",
+    "badgeLine2": "à Casablanca",
+    "cta": "Voir les services",
+    "skills": {
+      "customFabrication": "Choix du matériel",
+      "siteInstallation": "Mise en service"
+    }
+  },
+  "builds": {
+    "title": "Des solutions pour chaque étape",
+    "items": {
+      "piping": {
+        "title": "Ordinateurs, périphériques et consommables",
+        "alt": "Poste informatique professionnel équipé"
+      },
+      "boilermaking": {
+        "title": "Installation et mise en service",
+        "alt": "Câbles Ethernet connectés à un commutateur réseau"
+      },
+      "conveyors": {
+        "title": "Maintenance et assistance informatique",
+        "alt": "Technicien travaillant sur le câblage d'un ordinateur"
+      },
+      "loadingDocks": {
+        "title": "Accompagnement des équipes",
+        "alt": "Équipe professionnelle travaillant sur des ordinateurs"
+      }
+    }
+  },
+  "stats": {
+    "items": {
+      "founded": "année de création",
+      "experience": "plus de 20 ans d'expérience",
+      "services": "domaines de service",
+      "customers": "profils accompagnés : entreprises et particuliers"
+    }
+  },
+  "process": {
+    "title": "Du besoin à la maintenance",
+    "imageAlt": "Matériel informatique préparé pour une installation",
+    "items": {
+      "survey": {
+        "title": "Choix et préparation",
+        "description": "Écoute des usages, sélection du matériel et préparation d'une configuration adaptée."
+      },
+      "fabrication": {
+        "title": "Installation et suivi",
+        "description": "Mise en service, vérification du fonctionnement puis maintenance selon les besoins."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Des besoins concrets, des réponses pratiques",
+    "ratingLabel": "Domaines d'accompagnement",
+    "items": {
+      "foodIndustry": {
+        "name": "Équiper les postes",
+        "company": "Matériel et consommables",
+        "quote": "Des choix clairs pour disposer d'ordinateurs et de périphériques adaptés aux usages quotidiens.",
+        "imageAlt": "Poste informatique professionnel"
+      },
+      "industrialMaintenance": {
+        "name": "Mettre en service",
+        "company": "Installation et configuration",
+        "quote": "Une installation préparée et vérifiée pour que le matériel soit utilisable dans de bonnes conditions.",
+        "imageAlt": "Installation de matériel informatique"
+      },
+      "logistics": {
+        "name": "Maintenir l'équipement",
+        "company": "Assistance et entretien",
+        "quote": "Un accompagnement local pour diagnostiquer, entretenir et faire durer le matériel informatique.",
+        "imageAlt": "Maintenance d'un ordinateur"
+      }
+    }
+  },
+  "blog": {
+    "title": "Conseils et ressources",
+    "readMore": "Lire la suite",
+    "items": {
+      "industrialPiping": {
+        "title": "Bien choisir un poste informatique professionnel",
+        "date": "12 Mar",
+        "alt": "Poste informatique professionnel"
+      },
+      "loadingDock": {
+        "title": "Préparer l'installation d'un réseau local",
+        "date": "28 Fév",
+        "alt": "Câbles connectés à un équipement réseau"
+      },
+      "qualityTraceability": {
+        "title": "Entretenir son matériel informatique",
+        "date": "14 Fév",
+        "alt": "Technicien effectuant une maintenance informatique"
+      },
+      "conveyorFlow": {
+        "title": "Organiser les postes d'une petite équipe",
+        "date": "8 Jan",
+        "alt": "Équipe travaillant sur des ordinateurs"
+      }
+    }
+  }
+}

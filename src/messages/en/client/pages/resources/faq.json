@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "FAQ",
+    "description": "Find answers about our products, services, processes, and project support."
+  },
+  "eyebrow": "Common questions",
+  "title": "Everything clients usually ask before a project starts.",
+  "description": "Equipment, installation, or maintenance: these are the points to discuss with our team.",
+  "cta": "Have another question? Contact us",
+  "ctaTitle": "Have another question?",
+  "ctaButton": "Contact us",
+  "items": [
+    {
+      "question": "What services does INFO-L@N provide?",
+      "answer": "INFO-L@N sells computer equipment and supplies, provides installation and setup, and offers maintenance and support."
+    },
+    {
+      "question": "Does INFO-L@N support businesses?",
+      "answer": "Yes. The company primarily serves professional needs while welcoming individuals."
+    },
+    {
+      "question": "Where is INFO-L@N located?",
+      "answer": "INFO-L@N is located at 20 rue Banafsaj – ex-Violettes, résidence Nouhayla, Casablanca."
+    },
+    {
+      "question": "How can I contact INFO-L@N?",
+      "answer": "Call 05 22 39 84 84 or use the website contact form."
+    }
+  ]
+}

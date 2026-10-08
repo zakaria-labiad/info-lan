@@ -1,0 +1,40 @@
+{
+  "cta": {
+    "lineOne": "Need IT support in Casablanca?",
+    "lineTwo": "Talk to INFO-L@N.",
+    "label": "Contact INFO-L@N"
+  },
+  "brand": {
+    "homeLabel": "INFO-L@N home",
+    "logoAlt": "INFO-L@N logo",
+    "tagline": "Computer equipment sales, installation, and maintenance since 2005."
+  },
+  "social": {
+    "phone": "Call INFO-L@N",
+    "directions": "Directions to INFO-L@N"
+  },
+  "address": {
+    "title": "Address",
+    "lineOne": "20 rue Banafsaj – ex-Violettes,",
+    "lineTwo": "résidence Nouhayla, Casablanca",
+    "phone": "05 22 39 84 84"
+  },
+  "quickLinks": {
+    "label": "Footer navigation",
+    "title": "Quick links",
+    "items": {
+      "about": "About us",
+      "blog": "Blog",
+      "testimonials": "Our commitments",
+      "contact": "Contact us"
+    }
+  },
+  "copyright": {
+    "prefix": "Copyright 2026 - All Rights Reserved By",
+    "owner": "INFO-L@N"
+  },
+  "legal": {
+    "privacy": "Privacy policy",
+    "terms": "Terms & Conditions"
+  }
+}

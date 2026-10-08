@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "title": "Galleries",
+    "description": "Explore INFO-L@N computer equipment, installation, and maintenance environments."
+  },
+  "showMore": "Show more",
+  "openImage": "Open {label}",
+  "categories": {
+    "all": "All",
+    "boilermaking": "Installation",
+    "piping": "Equipment",
+    "handling": "Maintenance"
+  },
+  "alts": {
+    "boilermaking": "INFO-L@N computer equipment installation",
+    "piping": "Computer equipment supplied by INFO-L@N",
+    "handling": "INFO-L@N computer equipment maintenance"
+  }
+}

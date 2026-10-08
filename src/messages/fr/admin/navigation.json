@@ -1,0 +1,18 @@
+{
+  "dashboard": "Tableau de bord",
+  "viewSite": "Voir le site",
+  "overview": {
+    "title": "Administration",
+    "description": "Vue d'ensemble de l'administration. Choisissez une section pour continuer.",
+    "metadataDescription": "Vue d'ensemble de l'administration INFO-L@N."
+  },
+  "login": {
+    "title": "Connexion",
+    "description": "Le formulaire de connexion à l'administration sera publié ici.",
+    "metadataDescription": "Connectez-vous à l'espace d'administration INFO-L@N."
+  },
+  "dashboardPage": {
+    "description": "Les indicateurs et outils de gestion seront publiés ici.",
+    "metadataDescription": "Tableau de bord de l'administration INFO-L@N."
+  }
+}

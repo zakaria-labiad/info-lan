@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "Catégories",
+    "description": "Explorez notre sélection de matériel et de solutions informatiques."
+  },
+  "viewProducts": "Voir les produits",
+  "quote": "Demander un devis",
+  "catalogue": "Télécharger le catalogue",
+  "categories": {
+    "piping": "Ordinateurs",
+    "tanks": "Serveurs & stockage",
+    "boilermaking": "Impression",
+    "conveyors": "Réseau",
+    "docks": "Sécurité informatique",
+    "structures": "Équipement de bureau",
+    "shelving": "Sauvegarde",
+    "safety": "Logiciels & protection",
+    "workshop": "Maintenance",
+    "display": "Écrans",
+    "specials": "Accessoires & solutions"
+  }
+}

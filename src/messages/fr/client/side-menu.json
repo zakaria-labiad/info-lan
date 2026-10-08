@@ -1,0 +1,14 @@
+{
+  "homeLabel": "Accueil INFO-L@N",
+  "logoAlt": "Logo INFO-L@N",
+  "close": "Fermer le panneau",
+  "closeBackdrop": "Fermer le panneau",
+  "intro": "Accédez aux produits, services, ressources et coordonnées vérifiées de INFO-L@N.",
+  "contactTitle": "Nous contacter",
+  "contact": {
+    "phone": "05 22 39 84 84",
+    "email": "Formulaire de contact",
+    "address": "20 rue Banafsaj – ex-Violettes, résidence Nouhayla, Casablanca"
+  },
+  "quote": "Demander un devis"
+}

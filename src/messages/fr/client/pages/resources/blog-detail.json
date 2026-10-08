@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Article",
+    "description": "Consultez les conseils INFO-L@N sur le matériel, l'installation et la maintenance."
+  },
+  "relatedTags": "Tags associés :",
+  "comments": "Commentaires",
+  "replyTo": "Répondre à {author}",
+  "form": {
+    "title": "Publier un commentaire",
+    "note": "Votre adresse email ne sera pas publiée. Les champs obligatoires sont marqués.",
+    "fullName": "Nom complet",
+    "email": "Email",
+    "subject": "Sujet",
+    "message": "Message",
+    "submit": "Envoyer le commentaire"
+  }
+}

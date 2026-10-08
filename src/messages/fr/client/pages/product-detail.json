@@ -1,0 +1,259 @@
+{
+  "breadcrumb": "Catégories",
+  "breadcrumbLabel": "Fil d'Ariane",
+  "meta": {
+    "description": "Détails techniques, vues produit, spécifications et options de devis pour {label} dans la gamme {category}."
+  },
+  "requestQuote": "Contactez-nous",
+  "contactExpert": "Contacter un expert",
+  "gallery": {
+    "imageAlt": "Vue {index} du produit informatique {product}",
+    "thumbnail": "Vue {index}"
+  },
+  "productShow": {
+    "badge": "Solution informatique",
+    "quoteValue": "Devis sur demande",
+    "quoteBadge": "Réponse rapide",
+    "description": "{product} appartient à la gamme {category}. Le choix final dépend de l'usage, de la configuration et du matériel déjà en place.",
+    "rating": {
+      "value": "Depuis 2005",
+      "reviews": "Casablanca"
+    },
+    "colorsLabel": "Finition :",
+    "sizesLabel": "Format :",
+    "optionsLabel": "Options :",
+    "colors": {
+      "primaryBlue": "Bleu",
+      "white": "Blanc",
+      "black": "Noir",
+      "stainless": "Selon modèle"
+    },
+    "sizes": {
+      "custom": "Selon modèle"
+    },
+    "materialLabel": "Équipement :",
+    "materialValue": "Selon configuration",
+    "materials": {
+      "carbonSteel": "Ordinateur",
+      "stainlessSteel": "Périphérique",
+      "aluminum": "Réseau",
+      "paintedSteel": "Accessoire"
+    },
+    "configurationLabel": "Configuration :",
+    "configurationValue": "Adaptée",
+    "configurations": {
+      "standard": "STD",
+      "reinforced": "PRO",
+      "custom": "PERS.",
+      "installed": "INSTALLÉ"
+    },
+    "serviceNotes": {
+      "delivery": {
+        "label": "Fourniture",
+        "value": "Matériel et accessoires"
+      },
+      "study": {
+        "label": "Conseil",
+        "value": "Choix selon les usages"
+      },
+      "control": {
+        "label": "Mise en service",
+        "value": "Configuration et vérification"
+      }
+    }
+  },
+  "productDetails": {
+    "tabs": {
+      "details": "Détails",
+      "materials": "Configuration",
+      "dimensions": "Compatibilité",
+      "quote": "Devis",
+      "process": "Mise en service"
+    },
+    "description": "{product} peut être sélectionné et configuré selon les usages, les logiciels, les périphériques et l'environnement de travail.",
+    "imageAlt": "Vue détaillée de {product}",
+    "points": {
+      "custom": "Configuration adaptée aux usages",
+      "materials": "Compatibilité avec les périphériques utiles",
+      "finish": "Choix du format et de la finition",
+      "installation": "Installation et mise en service disponibles",
+      "documentation": "Informations utiles conservées pour le suivi"
+    },
+    "views": {
+      "details": {
+        "title": "Détails produit"
+      },
+      "materials": {
+        "title": "Configuration",
+        "description": "Mémoire, stockage, connectivité et périphériques sont considérés selon l'usage."
+      },
+      "dimensions": {
+        "title": "Compatibilité",
+        "description": "Le format, les interfaces et les accessoires sont vérifiés avec l'environnement existant."
+      },
+      "quote": {
+        "title": "Devis",
+        "description": "Partagez l'usage, les quantités et le matériel existant pour préciser votre besoin.",
+        "points": {
+          "drawings": "Usages et logiciels identifiés",
+          "site": "Matériel existant et connectivité précisés",
+          "timeline": "Disponibilité confirmée avant validation"
+        }
+      },
+      "process": {
+        "title": "Mise en service",
+        "description": "Le matériel est préparé, configuré et vérifié avant son utilisation.",
+        "points": {
+          "review": "Validation de la configuration",
+          "fabrication": "Préparation et installation",
+          "control": "Vérification du fonctionnement"
+        }
+      }
+    }
+  },
+  "technicalSpecifications": {
+    "rows": {
+      "material": {
+        "label": "Configuration",
+        "value": "Définie selon les usages et les logiciels nécessaires."
+      },
+      "finish": {
+        "label": "Connectivité",
+        "value": "Interfaces réseau et périphériques vérifiées selon le modèle."
+      },
+      "capacity": {
+        "label": "Format",
+        "value": "Sélectionné selon l'espace, la mobilité et l'environnement de travail."
+      }
+    }
+  },
+  "productContent": {
+    "profiles": {
+      "default": {
+        "showDescription": "{product} appartient à la gamme {category}. Le choix final dépend de l'usage, de la configuration et du matériel déjà en place.",
+        "detailsDescription": "{product} peut être sélectionné et configuré selon les usages, les logiciels, les périphériques et l'environnement de travail.",
+        "materialDescription": "Mémoire, stockage, connectivité et périphériques sont considérés selon l'usage.",
+        "dimensionDescription": "Le format, les interfaces et les accessoires sont vérifiés avec l'environnement existant."
+      },
+      "tanks": {
+        "showDescription": "{product} appartient à la gamme {category}. Le choix final dépend de l'usage, de la configuration et du matériel déjà en place.",
+        "detailsDescription": "{product} peut être sélectionné et configuré selon les usages, les logiciels, les périphériques et l'environnement de travail.",
+        "materialDescription": "Mémoire, stockage, connectivité et périphériques sont considérés selon l'usage.",
+        "dimensionDescription": "Le format, les interfaces et les accessoires sont vérifiés avec l'environnement existant."
+      },
+      "conveyors": {
+        "showDescription": "{product} appartient à la gamme {category}. Le choix final dépend de l'usage, de la configuration et du matériel déjà en place.",
+        "detailsDescription": "{product} peut être sélectionné et configuré selon les usages, les logiciels, les périphériques et l'environnement de travail.",
+        "materialDescription": "Mémoire, stockage, connectivité et périphériques sont considérés selon l'usage.",
+        "dimensionDescription": "Le format, les interfaces et les accessoires sont vérifiés avec l'environnement existant."
+      },
+      "safety": {
+        "showDescription": "{product} appartient à la gamme {category}. Le choix final dépend de l'usage, de la configuration et du matériel déjà en place.",
+        "detailsDescription": "{product} peut être sélectionné et configuré selon les usages, les logiciels, les périphériques et l'environnement de travail.",
+        "materialDescription": "Mémoire, stockage, connectivité et périphériques sont considérés selon l'usage.",
+        "dimensionDescription": "Le format, les interfaces et les accessoires sont vérifiés avec l'environnement existant."
+      }
+    },
+    "specifications": {
+      "material": {
+        "label": "Matières",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "finish": {
+        "label": "Finition",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "dimensions": {
+        "label": "Dimensions",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "volume": {
+        "label": "Volume",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "cleaning": {
+        "label": "Nettoyage",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "flow": {
+        "label": "Flux",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "structure": {
+        "label": "Structure",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "integration": {
+        "label": "Intégration",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "safety": {
+        "label": "Sécurité",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      },
+      "fixing": {
+        "label": "Fixation",
+        "value": "Caractéristique à confirmer selon le modèle et l'usage."
+      }
+    }
+  },
+  "similarProducts": {
+    "title": "Vous pourriez aussi avoir besoin",
+    "viewAll": "Voir tout",
+    "actionLabel": "Demander un devis",
+    "bestSellerProduct": "Produit recommandé",
+    "active": "Disponible",
+    "unavailable": "Sur demande",
+    "imageAlt": "Produit informatique similaire {product}",
+    "items": {
+      "technical-platform": {
+        "title": "Ordinateur de bureau",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "process-skid": {
+        "title": "Ordinateur portable",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "metal-workbench": {
+        "title": "Station de travail",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "guardrail": {
+        "title": "Mini PC",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "industrial-tank": {
+        "title": "Écran professionnel",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "storage-silo": {
+        "title": "Clavier et souris",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "belt-conveyor": {
+        "title": "Serveur tour",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "screw-conveyor": {
+        "title": "Serveur rack",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "loading-platform": {
+        "title": "Stockage réseau NAS",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "mobile-dock": {
+        "title": "Disque de sauvegarde",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "material-hopper": {
+        "title": "Onduleur",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      },
+      "access-stair": {
+        "title": "Baie informatique",
+        "description": "Une solution complémentaire à sélectionner selon votre configuration."
+      }
+    }
+  }
+}

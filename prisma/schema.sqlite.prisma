@@ -1,0 +1,550 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+enum UserRole {
+  ADMIN
+  EMPLOYEE
+}
+
+enum Locale {
+  FR
+  EN
+}
+
+enum ContentStatus {
+  DRAFT
+  SCHEDULED
+  PUBLISHED
+  ARCHIVED
+}
+
+enum MessageStatus {
+  NEW
+  READ
+  REPLIED
+  ARCHIVED
+}
+
+enum EmailStatus {
+  PENDING
+  SENT
+  DELIVERED
+  FAILED
+  BOUNCED
+}
+
+enum CommentStatus {
+  PENDING
+  APPROVED
+  HIDDEN
+  SPAM
+  DELETED
+}
+
+enum LegalDocumentType {
+  PRIVACY
+  TERMS
+}
+
+enum AuditAction {
+  CREATE
+  UPDATE
+  DELETE
+  RESTORE
+  PUBLISH
+  ARCHIVE
+  ASSIGN
+  REPLY
+  MODERATE
+  LOGIN
+  LOGOUT
+  SESSION_REVOKE
+}
+
+model User {
+  id Int @id @default(autoincrement())
+  name String
+  email String @unique
+  role UserRole @default(EMPLOYEE)
+  passcodeHash String @map("passcode_hash")
+  preferredLocale Locale @default(FR) @map("preferred_locale")
+  mustResetPassword Boolean @default(true) @map("must_reset_password")
+  isActive Boolean @default(true) @map("is_active")
+  lastLoginAt DateTime? @map("last_login_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  refreshTokens RefreshToken[]
+  passwordResetTokens PasswordResetToken[]
+  uploadedMedia Media[] @relation("MediaUploader")
+  createdBlogPosts BlogPost[] @relation("BlogPostCreator")
+  updatedBlogPosts BlogPost[] @relation("BlogPostUpdater")
+  createdProducts Product[] @relation("ProductCreator")
+  updatedProducts Product[] @relation("ProductUpdater")
+  assignedMessages ContactMessage[] @relation("MessageAssignee")
+  messageNotes ContactMessageNote[]
+  assignmentsMade ContactMessageAssignment[] @relation("MessageAssignmentCreator")
+  assignmentsReceived ContactMessageAssignment[] @relation("MessageAssignmentRecipient")
+  sentEmails EmailLog[] @relation("EmailSender")
+  moderatedComments BlogComment[] @relation("CommentModerator")
+  auditLogs AuditLog[]
+  @@index([role, isActive])
+  @@index([deletedAt])
+  @@map("users")
+}
+
+model RefreshToken {
+  id Int @id @default(autoincrement())
+  userId Int @map("user_id")
+  tokenHash String @unique @map("token_hash")
+  familyId String @map("family_id")
+  replacedByHash String? @map("replaced_by_hash")
+  expiresAt DateTime @map("expires_at")
+  revokedAt DateTime? @map("revoked_at")
+  ipAddress String? @map("ip_address")
+  userAgent String? @map("user_agent")
+  createdAt DateTime @default(now()) @map("created_at")
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@index([userId, revokedAt])
+  @@index([familyId])
+  @@index([expiresAt])
+  @@map("refresh_tokens")
+}
+
+model PasswordResetToken {
+  id Int @id @default(autoincrement())
+  userId Int @map("user_id")
+  tokenHash String @unique @map("token_hash")
+  expiresAt DateTime @map("expires_at")
+  usedAt DateTime? @map("used_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@index([userId])
+  @@index([expiresAt])
+  @@map("password_reset_tokens")
+}
+
+model LoginThrottle {
+  id Int @id @default(autoincrement())
+  keyHash String @unique @map("key_hash")
+  failureCount Int @default(0) @map("failure_count")
+  blockedUntil DateTime? @map("blocked_until")
+  lastAttemptAt DateTime @default(now()) @map("last_attempt_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  @@index([blockedUntil])
+  @@map("login_throttles")
+}
+
+model ContactMessage {
+  id Int @id @default(autoincrement())
+  name String
+  email String
+  phone String?
+  subject String?
+  body String
+  status MessageStatus @default(NEW)
+  locale Locale @default(FR)
+  source String @default("contact")
+  ipHash String? @map("ip_hash")
+  assignedToId Int? @map("assigned_to_id")
+  revision Int @default(1)
+  readAt DateTime? @map("read_at")
+  repliedAt DateTime? @map("replied_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  assignee User? @relation("MessageAssignee", fields: [assignedToId], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  notes ContactMessageNote[]
+  assignmentHistory ContactMessageAssignment[]
+  emails EmailLog[]
+  @@index([status, createdAt])
+  @@index([email])
+  @@index([assignedToId, status])
+  @@index([ipHash, createdAt])
+  @@index([deletedAt])
+  @@map("contact_messages")
+}
+
+model ContactMessageNote {
+  id Int @id @default(autoincrement())
+  contactMessageId Int @map("contact_message_id")
+  authorId Int @map("author_id")
+  body String
+  createdAt DateTime @default(now()) @map("created_at")
+  contactMessage ContactMessage @relation(fields: [contactMessageId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  author User @relation(fields: [authorId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  @@index([contactMessageId, createdAt])
+  @@index([authorId])
+  @@map("contact_message_notes")
+}
+
+model ContactMessageAssignment {
+  id Int @id @default(autoincrement())
+  contactMessageId Int @map("contact_message_id")
+  assignedById Int @map("assigned_by_id")
+  assignedToId Int? @map("assigned_to_id")
+  createdAt DateTime @default(now()) @map("created_at")
+  contactMessage ContactMessage @relation(fields: [contactMessageId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  assignedBy User @relation("MessageAssignmentCreator", fields: [assignedById], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  assignedTo User? @relation("MessageAssignmentRecipient", fields: [assignedToId], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  @@index([contactMessageId, createdAt])
+  @@index([assignedById])
+  @@index([assignedToId])
+  @@map("contact_message_assignments")
+}
+
+model EmailLog {
+  id Int @id @default(autoincrement())
+  contactMessageId Int? @map("contact_message_id")
+  sentById Int? @map("sent_by_id")
+  idempotencyKey String @unique @map("idempotency_key")
+  toEmail String @map("to_email")
+  subject String
+  bodyHtml String @map("body_html")
+  bodyText String? @map("body_text")
+  status EmailStatus @default(PENDING)
+  providerMessageId String? @unique @map("provider_message_id")
+  errorMessage String? @map("error_message")
+  sentAt DateTime? @map("sent_at")
+  deliveredAt DateTime? @map("delivered_at")
+  failedAt DateTime? @map("failed_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  contactMessage ContactMessage? @relation(fields: [contactMessageId], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  sender User? @relation("EmailSender", fields: [sentById], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  @@index([contactMessageId, createdAt])
+  @@index([sentById])
+  @@index([status])
+  @@map("email_logs")
+}
+
+model BlogPost {
+  id Int @id @default(autoincrement())
+  status ContentStatus @default(DRAFT)
+  revision Int @default(1)
+  scheduledAt DateTime? @map("scheduled_at")
+  publishedAt DateTime? @map("published_at")
+  createdById Int @map("created_by_id")
+  updatedById Int? @map("updated_by_id")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  creator User @relation("BlogPostCreator", fields: [createdById], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  updater User? @relation("BlogPostUpdater", fields: [updatedById], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  translations BlogPostTranslation[]
+  categories BlogPostCategory[]
+  tags BlogPostTag[]
+  comments BlogComment[]
+  media BlogPostMedia[]
+  @@index([status, publishedAt])
+  @@index([scheduledAt])
+  @@index([createdById])
+  @@index([deletedAt])
+  @@map("blog_posts")
+}
+
+model BlogPostTranslation {
+  id Int @id @default(autoincrement())
+  postId Int @map("post_id")
+  locale Locale
+  slug String
+  title String
+  subtitle String?
+  excerpt String?
+  content Json
+  seoTitle String? @map("seo_title")
+  seoDescription String? @map("seo_description")
+  isReady Boolean @default(false) @map("is_ready")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  post BlogPost @relation(fields: [postId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@unique([postId, locale])
+  @@unique([locale, slug])
+  @@index([locale, isReady])
+  @@map("blog_post_translations")
+}
+
+model BlogCategory {
+  id Int @id @default(autoincrement())
+  nameFr String @map("name_fr")
+  nameEn String @map("name_en")
+  slugFr String @unique @map("slug_fr")
+  slugEn String @unique @map("slug_en")
+  descriptionFr String? @map("description_fr")
+  descriptionEn String? @map("description_en")
+  sortOrder Int @default(0) @map("sort_order")
+  isActive Boolean @default(true) @map("is_active")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  posts BlogPostCategory[]
+  @@index([sortOrder])
+  @@index([isActive, deletedAt])
+  @@map("blog_categories")
+}
+
+model BlogTag {
+  id Int @id @default(autoincrement())
+  nameFr String @map("name_fr")
+  nameEn String @map("name_en")
+  slugFr String @unique @map("slug_fr")
+  slugEn String @unique @map("slug_en")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  posts BlogPostTag[]
+  @@index([deletedAt])
+  @@map("blog_tags")
+}
+
+model BlogPostCategory {
+  postId Int @map("post_id")
+  categoryId Int @map("category_id")
+  sortOrder Int @default(0) @map("sort_order")
+  post BlogPost @relation(fields: [postId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  category BlogCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@id([postId, categoryId])
+  @@index([categoryId, sortOrder])
+  @@map("blog_post_categories")
+}
+
+model BlogPostTag {
+  postId Int @map("post_id")
+  tagId Int @map("tag_id")
+  post BlogPost @relation(fields: [postId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  tag BlogTag @relation(fields: [tagId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@id([postId, tagId])
+  @@index([tagId])
+  @@map("blog_post_tags")
+}
+
+model BlogComment {
+  id Int @id @default(autoincrement())
+  postId Int @map("post_id")
+  locale Locale
+  authorName String @map("author_name")
+  authorEmail String @map("author_email")
+  subject String?
+  body String
+  status CommentStatus @default(PENDING)
+  ipHash String? @map("ip_hash")
+  moderatedById Int? @map("moderated_by_id")
+  moderatedAt DateTime? @map("moderated_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  post BlogPost @relation(fields: [postId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  moderatedBy User? @relation("CommentModerator", fields: [moderatedById], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  @@index([postId, status, createdAt])
+  @@index([status, createdAt])
+  @@index([ipHash, createdAt])
+  @@map("blog_comments")
+}
+
+model Product {
+  id Int @id @default(autoincrement())
+  status ContentStatus @default(DRAFT)
+  family String?
+  availability String?
+  isBestSeller Boolean @default(false) @map("is_best_seller")
+  specifications Json?
+  options Json?
+  sortOrder Int @default(0) @map("sort_order")
+  revision Int @default(1)
+  publishedAt DateTime? @map("published_at")
+  createdById Int @map("created_by_id")
+  updatedById Int? @map("updated_by_id")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  creator User @relation("ProductCreator", fields: [createdById], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  updater User? @relation("ProductUpdater", fields: [updatedById], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  translations ProductTranslation[]
+  categories ProductCategoryAssignment[]
+  media ProductMedia[]
+  relatedProducts ProductRelation[] @relation("ProductRelationSource")
+  relatedFrom ProductRelation[] @relation("ProductRelationTarget")
+  @@index([status, sortOrder])
+  @@index([family])
+  @@index([isBestSeller])
+  @@index([deletedAt])
+  @@map("products")
+}
+
+model ProductTranslation {
+  id Int @id @default(autoincrement())
+  productId Int @map("product_id")
+  locale Locale
+  slug String
+  title String
+  shortDescription String? @map("short_description")
+  description String?
+  seoTitle String? @map("seo_title")
+  seoDescription String? @map("seo_description")
+  isReady Boolean @default(false) @map("is_ready")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@unique([productId, locale])
+  @@unique([locale, slug])
+  @@index([locale, isReady])
+  @@map("product_translations")
+}
+
+model ProductCategory {
+  id Int @id @default(autoincrement())
+  nameFr String @map("name_fr")
+  nameEn String @map("name_en")
+  slugFr String @unique @map("slug_fr")
+  slugEn String @unique @map("slug_en")
+  descriptionFr String? @map("description_fr")
+  descriptionEn String? @map("description_en")
+  sortOrder Int @default(0) @map("sort_order")
+  isActive Boolean @default(true) @map("is_active")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  products ProductCategoryAssignment[]
+  @@index([sortOrder])
+  @@index([isActive, deletedAt])
+  @@map("product_categories")
+}
+
+model ProductCategoryAssignment {
+  productId Int @map("product_id")
+  categoryId Int @map("category_id")
+  sortOrder Int @default(0) @map("sort_order")
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  category ProductCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@id([productId, categoryId])
+  @@index([categoryId, sortOrder])
+  @@map("product_category_assignments")
+}
+
+model ProductRelation {
+  sourceProductId Int @map("source_product_id")
+  targetProductId Int @map("target_product_id")
+  sortOrder Int @default(0) @map("sort_order")
+  sourceProduct Product @relation("ProductRelationSource", fields: [sourceProductId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  targetProduct Product @relation("ProductRelationTarget", fields: [targetProductId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  @@id([sourceProductId, targetProductId])
+  @@index([targetProductId])
+  @@map("product_relations")
+}
+
+model Media {
+  id Int @id @default(autoincrement())
+  publicId String @unique @map("public_id")
+  secureUrl String @map("secure_url")
+  originalUrl String? @map("original_url")
+  fileName String @map("file_name")
+  fileSize BigInt? @map("file_size")
+  mimeType String @map("mime_type")
+  width Int?
+  height Int?
+  altTextFr String? @map("alt_text_fr")
+  altTextEn String? @map("alt_text_en")
+  uploadedById Int? @map("uploaded_by_id")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  uploader User? @relation("MediaUploader", fields: [uploadedById], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  blogPosts BlogPostMedia[]
+  products ProductMedia[]
+  @@index([mimeType])
+  @@index([uploadedById])
+  @@index([deletedAt])
+  @@map("media")
+}
+
+model BlogPostMedia {
+  postId Int @map("post_id")
+  mediaId Int @map("media_id")
+  sortOrder Int @default(0) @map("sort_order")
+  isCover Boolean @default(false) @map("is_cover")
+  post BlogPost @relation(fields: [postId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  media Media @relation(fields: [mediaId], references: [id], onDelete: Restrict, onUpdate: NoAction)
+  @@id([postId, mediaId])
+  @@index([mediaId])
+  @@index([postId, isCover])
+  @@map("blog_post_media")
+}
+
+model ProductMedia {
+  productId Int @map("product_id")
+  mediaId Int @map("media_id")
+  sortOrder Int @default(0) @map("sort_order")
+  isPrimary Boolean @default(false) @map("is_primary")
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  media Media @relation(fields: [mediaId], references: [id], onDelete: Restrict, onUpdate: NoAction)
+  @@id([productId, mediaId])
+  @@index([mediaId])
+  @@index([productId, isPrimary])
+  @@map("product_media")
+}
+
+model SiteSettings {
+  id Int @id @default(1)
+  companyName String @map("company_name")
+  contactEmail String? @map("contact_email")
+  contactPhone String? @map("contact_phone")
+  addressFr String? @map("address_fr")
+  addressEn String? @map("address_en")
+  mapLatitude Float? @map("map_latitude")
+  mapLongitude Float? @map("map_longitude")
+  publicSiteUrl String? @map("public_site_url")
+  emailFromName String? @map("email_from_name")
+  emailFromAddress String? @map("email_from_address")
+  facebookUrl String? @map("facebook_url")
+  instagramUrl String? @map("instagram_url")
+  linkedinUrl String? @map("linkedin_url")
+  youtubeUrl String? @map("youtube_url")
+  seoTitleFr String? @map("seo_title_fr")
+  seoTitleEn String? @map("seo_title_en")
+  seoDescriptionFr String? @map("seo_description_fr")
+  seoDescriptionEn String? @map("seo_description_en")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  @@map("site_settings")
+}
+
+model LegalDocument {
+  id Int @id @default(autoincrement())
+  type LegalDocumentType
+  locale Locale
+  title String
+  slug String
+  content Json
+  status ContentStatus @default(DRAFT)
+  revision Int @default(1)
+  publishedAt DateTime? @map("published_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  @@unique([type, locale])
+  @@unique([locale, slug])
+  @@index([status, publishedAt])
+  @@map("legal_documents")
+}
+
+model AuditLog {
+  id Int @id @default(autoincrement())
+  userId Int? @map("user_id")
+  action AuditAction
+  entityType String @map("entity_type")
+  entityId Int? @map("entity_id")
+  metadata Json?
+  ipAddress String? @map("ip_address")
+  userAgent String? @map("user_agent")
+  createdAt DateTime @default(now()) @map("created_at")
+  user User? @relation(fields: [userId], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  @@index([userId, createdAt])
+  @@index([entityType, entityId])
+  @@index([action, createdAt])
+  @@map("audit_logs")
+}

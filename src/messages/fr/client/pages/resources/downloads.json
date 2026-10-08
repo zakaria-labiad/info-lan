@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Téléchargements",
+    "description": "Demandez les informations utiles sur le matériel et les services INFO-L@N."
+  },
+  "download": "Demander",
+  "ctaTitle": "Besoin d’un autre document ?",
+  "ctaButton": "Contactez-nous",
+  "sections": [
+    {
+      "category": "Matériel & consommables",
+      "items": [
+        {
+          "name": "Ordinateurs et périphériques",
+          "size": "Sur demande",
+          "href": "/contact"
+        },
+        {
+          "name": "Impression et consommables",
+          "size": "Sur demande",
+          "href": "/contact"
+        },
+        {
+          "name": "Réseau et stockage",
+          "size": "Sur demande",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "category": "Installation & mise en service",
+      "items": [
+        {
+          "name": "Préparation des postes",
+          "size": "Sur demande",
+          "href": "/contact"
+        },
+        {
+          "name": "Configuration réseau",
+          "size": "Sur demande",
+          "href": "/contact"
+        },
+        {
+          "name": "Vérification du fonctionnement",
+          "size": "Sur demande",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "category": "Maintenance & assistance",
+      "items": [
+        {
+          "name": "Diagnostic matériel",
+          "size": "Sur demande",
+          "href": "/contact"
+        },
+        {
+          "name": "Entretien des équipements",
+          "size": "Sur demande",
+          "href": "/contact"
+        },
+        {
+          "name": "Accompagnement utilisateur",
+          "size": "Sur demande",
+          "href": "/contact"
+        }
+      ]
+    }
+  ]
+}

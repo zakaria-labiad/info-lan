@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title": "Our solutions",
+    "description": "Explore the areas in which INFO-L@N supports IT needs."
+  },
+  "becomeTitle": "Let's discuss your needs",
+  "becomeDescription": "Equipment, installation, or maintenance: contact INFO-L@N.",
+  "contact": "Contact us",
+  "logoAlt": "{partner} illustration",
+  "solutions": {
+    "computers": { "title": "Computers", "description": "Desktop and laptop options for the intended uses." },
+    "workstations": { "title": "Workstations", "description": "Configurations for professional tasks." },
+    "printing": { "title": "Printing", "description": "Suitable printers and supplies." },
+    "scanning": { "title": "Scanning", "description": "Scanners and document handling." },
+    "networking": { "title": "Networking", "description": "Equipment for connecting workstations." },
+    "routers": { "title": "Connectivity", "description": "Routers and access suited to the need." },
+    "cabling": { "title": "Cabling", "description": "Ethernet links and accessories." },
+    "storage": { "title": "Storage", "description": "Drives and network storage." },
+    "backup": { "title": "Backup", "description": "Local data-retention solutions." },
+    "security": { "title": "Protection", "description": "Tools for protecting workstations." },
+    "power": { "title": "Power", "description": "UPS systems and electrical protection." },
+    "supplies": { "title": "Supplies", "description": "Computer accessories and supplies." },
+    "installation": { "title": "Installation", "description": "Configuration and setup." },
+    "maintenance": { "title": "Maintenance", "description": "Equipment diagnostics and care." },
+    "support": { "title": "Support", "description": "Practical guidance for users." }
+  }
+}

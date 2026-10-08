@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title": "Demande de devis",
+    "description": "Présentez votre besoin et recevez une offre technique et commerciale adaptée."
+  },
+  "form": {
+    "fullName": "Nom complet",
+    "email": "Email",
+    "phone": "Numéro de téléphone",
+    "company": "Entreprise/Organisation",
+    "services": {
+      "title": "Quels services pouvons-nous vous fournir ?",
+      "options": {
+        "industrialTanks": "Cuves informatiques",
+        "storageTanks": "Réservoirs de stockage",
+        "hoppers": "Trémies",
+        "skips": "Bennes",
+        "conveyors": "maintenance informatique",
+        "walkways": "Passerelles",
+        "guardrails": "Garde-corps",
+        "metalStructures": "Structures informatiques"
+      }
+    },
+    "message": "Message",
+    "submit": "Envoyer le devis"
+  }
+}

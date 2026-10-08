@@ -1,0 +1,259 @@
+{
+  "breadcrumb": "Categories",
+  "breadcrumbLabel": "Breadcrumb",
+  "meta": {
+    "description": "Technical details, product views, specifications, and quote options for {label} in the {category} range."
+  },
+  "requestQuote": "Contact us",
+  "contactExpert": "Contact an expert",
+  "gallery": {
+    "imageAlt": "View {index} of {product} computer product",
+    "thumbnail": "View {index}"
+  },
+  "productShow": {
+    "badge": "IT solution",
+    "quoteValue": "Quote on request",
+    "quoteBadge": "Fast reply",
+    "description": "{product} belongs to the {category} range. The final choice depends on the use, configuration, and equipment already in place.",
+    "rating": {
+      "value": "Since 2005",
+      "reviews": "Casablanca"
+    },
+    "colorsLabel": "Finish:",
+    "sizesLabel": "Format:",
+    "optionsLabel": "Options:",
+    "colors": {
+      "primaryBlue": "Blue",
+      "white": "White",
+      "black": "Black",
+      "stainless": "Model dependent"
+    },
+    "sizes": {
+      "custom": "Model dependent"
+    },
+    "materialLabel": "Equipment:",
+    "materialValue": "Configuration dependent",
+    "materials": {
+      "carbonSteel": "Computer",
+      "stainlessSteel": "Peripheral",
+      "aluminum": "Network",
+      "paintedSteel": "Accessory"
+    },
+    "configurationLabel": "Configuration:",
+    "configurationValue": "Suitable",
+    "configurations": {
+      "standard": "STD",
+      "reinforced": "PRO",
+      "custom": "CUSTOM",
+      "installed": "SET UP"
+    },
+    "serviceNotes": {
+      "delivery": {
+        "label": "Supply",
+        "value": "Equipment and accessories"
+      },
+      "study": {
+        "label": "Advice",
+        "value": "Selection for the intended uses"
+      },
+      "control": {
+        "label": "Setup",
+        "value": "Configuration and checks"
+      }
+    }
+  },
+  "productDetails": {
+    "tabs": {
+      "details": "Details",
+      "materials": "Configuration",
+      "dimensions": "Compatibility",
+      "quote": "Quote",
+      "process": "Setup"
+    },
+    "description": "{product} can be selected and configured for the uses, software, peripherals, and working environment.",
+    "imageAlt": "Detailed view of {product}",
+    "points": {
+      "custom": "Configuration suited to the uses",
+      "materials": "Compatibility with useful peripherals",
+      "finish": "Format and finish selection",
+      "installation": "Installation and setup available",
+      "documentation": "Useful information retained for follow-up"
+    },
+    "views": {
+      "details": {
+        "title": "Product details"
+      },
+      "materials": {
+        "title": "Configuration",
+        "description": "Memory, storage, connectivity, and peripherals are considered for the intended use."
+      },
+      "dimensions": {
+        "title": "Compatibility",
+        "description": "Format, interfaces, and accessories are checked against the existing environment."
+      },
+      "quote": {
+        "title": "Quote",
+        "description": "Share the use, quantities, and existing equipment to clarify your requirement.",
+        "points": {
+          "drawings": "Uses and software identified",
+          "site": "Existing equipment and connectivity clarified",
+          "timeline": "Availability confirmed before validation"
+        }
+      },
+      "process": {
+        "title": "Setup",
+        "description": "Equipment is prepared, configured, and checked before use.",
+        "points": {
+          "review": "Configuration validation",
+          "fabrication": "Preparation and installation",
+          "control": "Operation check"
+        }
+      }
+    }
+  },
+  "technicalSpecifications": {
+    "rows": {
+      "material": {
+        "label": "Configuration",
+        "value": "Defined for the uses and required software."
+      },
+      "finish": {
+        "label": "Connectivity",
+        "value": "Network and peripheral interfaces checked by model."
+      },
+      "capacity": {
+        "label": "Format",
+        "value": "Selected for the space, mobility, and working environment."
+      }
+    }
+  },
+  "productContent": {
+    "profiles": {
+      "default": {
+        "showDescription": "{product} belongs to the {category} range. The final choice depends on the use, configuration, and equipment already in place.",
+        "detailsDescription": "{product} can be selected and configured for the uses, software, peripherals, and working environment.",
+        "materialDescription": "Memory, storage, connectivity, and peripherals are considered for the intended use.",
+        "dimensionDescription": "Format, interfaces, and accessories are checked against the existing environment."
+      },
+      "tanks": {
+        "showDescription": "{product} belongs to the {category} range. The final choice depends on the use, configuration, and equipment already in place.",
+        "detailsDescription": "{product} can be selected and configured for the uses, software, peripherals, and working environment.",
+        "materialDescription": "Memory, storage, connectivity, and peripherals are considered for the intended use.",
+        "dimensionDescription": "Format, interfaces, and accessories are checked against the existing environment."
+      },
+      "conveyors": {
+        "showDescription": "{product} belongs to the {category} range. The final choice depends on the use, configuration, and equipment already in place.",
+        "detailsDescription": "{product} can be selected and configured for the uses, software, peripherals, and working environment.",
+        "materialDescription": "Memory, storage, connectivity, and peripherals are considered for the intended use.",
+        "dimensionDescription": "Format, interfaces, and accessories are checked against the existing environment."
+      },
+      "safety": {
+        "showDescription": "{product} belongs to the {category} range. The final choice depends on the use, configuration, and equipment already in place.",
+        "detailsDescription": "{product} can be selected and configured for the uses, software, peripherals, and working environment.",
+        "materialDescription": "Memory, storage, connectivity, and peripherals are considered for the intended use.",
+        "dimensionDescription": "Format, interfaces, and accessories are checked against the existing environment."
+      }
+    },
+    "specifications": {
+      "material": {
+        "label": "Materials",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "finish": {
+        "label": "Finish",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "dimensions": {
+        "label": "Dimensions",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "volume": {
+        "label": "Volume",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "cleaning": {
+        "label": "Cleaning",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "flow": {
+        "label": "Flow",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "structure": {
+        "label": "Structure",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "integration": {
+        "label": "Integration",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "safety": {
+        "label": "Safety",
+        "value": "Characteristic to confirm for the model and intended use."
+      },
+      "fixing": {
+        "label": "Fixing",
+        "value": "Characteristic to confirm for the model and intended use."
+      }
+    }
+  },
+  "similarProducts": {
+    "title": "You may also need",
+    "viewAll": "View all",
+    "actionLabel": "Ask for quote",
+    "bestSellerProduct": "Recommended product",
+    "active": "Available",
+    "unavailable": "On request",
+    "imageAlt": "Similar computer product {product}",
+    "items": {
+      "technical-platform": {
+        "title": "Desktop computer",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "process-skid": {
+        "title": "Laptop computer",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "metal-workbench": {
+        "title": "Workstation",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "guardrail": {
+        "title": "Mini PC",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "industrial-tank": {
+        "title": "Professional display",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "storage-silo": {
+        "title": "Keyboard and mouse",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "belt-conveyor": {
+        "title": "Tower server",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "screw-conveyor": {
+        "title": "Rack server",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "loading-platform": {
+        "title": "NAS network storage",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "mobile-dock": {
+        "title": "Backup drive",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "material-hopper": {
+        "title": "UPS",
+        "description": "A complementary solution to select for your configuration."
+      },
+      "access-stair": {
+        "title": "IT cabinet",
+        "description": "A complementary solution to select for your configuration."
+      }
+    }
+  }
+}

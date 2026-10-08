@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "Our commitments",
+    "description": "Discover the principles that guide INFO-L@N support."
+  },
+  "cta": "Start a project with us",
+  "ctaTitle": "Let's discuss your IT requirement.",
+  "ctaButton": "Contact us",
+  "ratingLabel": "INFO-L@N commitment",
+  "items": [
+    {
+      "name": "Local presence",
+      "company": "Casablanca",
+      "comment": "A verified address and phone number for contacting INFO-L@N directly.",
+      "rating": 1,
+      "initials": "LP",
+      "imageAlt": "Local presence"
+    },
+    {
+      "name": "Practical advice",
+      "company": "Equipment & supplies",
+      "comment": "Choices explained for the intended uses before setup.",
+      "rating": 1,
+      "initials": "PA",
+      "imageAlt": "Practical advice"
+    },
+    {
+      "name": "Continuity",
+      "company": "Installation & maintenance",
+      "comment": "Support connecting purchase, setup, and maintenance.",
+      "rating": 1,
+      "initials": "CO",
+      "imageAlt": "Continuity"
+    }
+  ]
+}

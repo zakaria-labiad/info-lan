@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Article",
+    "description": "Read INFO-L@N guidance on equipment, installation, and maintenance."
+  },
+  "relatedTags": "Related tags:",
+  "comments": "Comments",
+  "replyTo": "Reply to {author}",
+  "form": {
+    "title": "Post comment",
+    "note": "Your email address will not be published. Required fields are marked.",
+    "fullName": "Full name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Submit comment"
+  }
+}

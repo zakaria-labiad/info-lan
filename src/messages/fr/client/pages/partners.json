@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title": "Nos solutions",
+    "description": "Découvrez les domaines dans lesquels INFO-L@N accompagne les besoins informatiques."
+  },
+  "becomeTitle": "Parlons de votre besoin",
+  "becomeDescription": "Matériel, installation ou maintenance : contactez INFO-L@N.",
+  "contact": "Contactez-nous",
+  "logoAlt": "Illustration de {partner}",
+  "solutions": {
+    "computers": { "title": "Ordinateurs", "description": "Postes fixes et portables selon les usages." },
+    "workstations": { "title": "Postes de travail", "description": "Configurations pour les tâches professionnelles." },
+    "printing": { "title": "Impression", "description": "Imprimantes et consommables adaptés." },
+    "scanning": { "title": "Numérisation", "description": "Scanners et gestion des documents." },
+    "networking": { "title": "Réseau", "description": "Équipements pour relier les postes." },
+    "routers": { "title": "Connectivité", "description": "Routeurs et accès adaptés au besoin." },
+    "cabling": { "title": "Câblage", "description": "Liaisons Ethernet et accessoires." },
+    "storage": { "title": "Stockage", "description": "Disques et stockage réseau." },
+    "backup": { "title": "Sauvegarde", "description": "Solutions locales de conservation des données." },
+    "security": { "title": "Protection", "description": "Outils de protection des postes." },
+    "power": { "title": "Alimentation", "description": "Onduleurs et protection électrique." },
+    "supplies": { "title": "Consommables", "description": "Accessoires et consommables informatiques." },
+    "installation": { "title": "Installation", "description": "Configuration et mise en service." },
+    "maintenance": { "title": "Maintenance", "description": "Diagnostic et entretien du matériel." },
+    "support": { "title": "Assistance", "description": "Accompagnement pratique des utilisateurs." }
+  }
+}
